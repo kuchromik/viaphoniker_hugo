@@ -128,12 +128,12 @@ footer {
 }
 
 .img-sm {
-	max-width: 50%;
+	max-width: 100%;
 	margin-top: 1rem;
   }
   
   .img-sm img{
-	max-width: 50%;
+	max-width: 100%;
   }
   
   .img-lg {
