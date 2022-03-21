@@ -1,12 +1,13 @@
 ---
 title: Viaphoniker
 date: 2022-02-11T16:00:02.000+01:00
-draft: true
 
 ---
 {{% center %}}
 Aktuelles
 {{% /center %}}
+
+{{% center %}} Viadrinapreis {{% /center %}}
 
 {{< figure src="/img/viadrinapreis.jpg" class="img-sm">}}
 
