@@ -7,7 +7,11 @@ date: 2022-02-11T16:00:02.000+01:00
 Aktuelles
 {{% /center %}}
 
-### Verleihung des Viadrina-Förderpreises an die Viaphoniker
+{{% center %}}
+
+Verleihung des Viadrina-Förderpreises
+
+{{% /center %}}
 
 {{< figure src="/img/viadrinapreis.jpg" class="img-sm">}}
 
