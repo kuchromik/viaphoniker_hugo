@@ -1,0 +1,9 @@
+baseURL = 'https://vigorous-snyder-c2ba11.netlify.app/'
+languageCode = 'de-de'
+title = 'ViaphonikerInnen'
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+custom_css = ["css/header.css", "css/menu.css", "css/style.css"]

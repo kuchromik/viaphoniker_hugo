@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="de">
+  <head>
+      {{ partial "head" . }}
+    </head>
+  <body>
+
+    {{ partial "header" . }}
+
+      <div class="container p-2 align-self-center">
+
+    {{ block "main" . }} {{ end }}
+
+    </div>
+
+    {{ partial "footer" . }}
+
+  </body>
+</html>

@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="de">
+<head>
+<!-- Required meta tags -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Viaphoniker</title>
+<link rel="shortcut icon" href="favicon.ico"/>
+
+<!-- GoogleFonts -->
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+
+<!-- Bootstrap CSS -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+
+<!-- Own  CSS -->
+<link href="css/style.css" rel="stylesheet">
+<link href="css/menu.css" rel="stylesheet">
+</head>
+
+<body>
+<nav id="navbar" class="navbar navbar-expand-lg sticky-top py-2 ">
+  <div class="container"> 
+    
+    <a class="navbar-brand ms-2" href="index.html"> <img id="sticker" alt="VIAPHONIKER"> </a>
+    <div class="menu-wrap">
+      <input type="checkbox" class="toggler" autocomplete="off">
+      <div class="hamburger">
+        <div></div>
+      </div>
+      <div class="menu">
+        <div>
+          <div>
+            <ul>
+              <li><a href="index.html">Aktuelles</a></li>
+              <li><a href="musizierende.html">Musizierende</a></li>
+              <li><a href="proben.html">Proben</a></li>
+              <li><a href="probenwochenende.html">Probenwochenenden</a></li>
+              <li><a href="retrospektive.html">Retrospektive</a></li>
+              <li><a href="kontakt.html">Kontakt &amp; Buchung</a></li>
+              <li><a href="freunde.html">Förderer &amp; Freunde</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>
+
+<main class="d-flex py-2">
+	<div class="container p-2 align-self-center">
+			<h3 class="py-3">Kontakt & Buchung</h3>
+			<div class="row row-cols-1 row-cols-sm-2">
+				<div class="col">
+					<h6>Impressum <small>(Angaben gem. § 5 TMG)</small></h6>
+					<adress>
+						<p><small>Viaphoniker, Universitätsorchester Frankfurt (Oder) e.V.<br>
+								Europa-Universität Viadrina<br>
+								Große Scharrnstr. 59<br>
+								15230 Frankfurt (Oder)</small></p>
+					</adress>
+				</div>
+				<div class="col">
+					<h6>Registereintrag</h6>
+					<p><small>Eintragung im Vereinsregister<br>
+							Registernummer: VR 670<br>
+							Registergericht: Amtsgericht Frankfurt (Oder)</small></p>
+				</div>
+				<div class="col">
+					<h6>Vorstand</h6>
+					<p><small>1. Vorsitzende: Monique Vollbrecht<br>
+							2. Vorsitzende: Claire Gauthier<br>
+							Kassenwärtin: Katharina Zeyse<br>
+							Kunstbeauftrage: Birgid Wintsche</small></p>
+				</div>
+				<div class="col">
+					<h6>Buchung</h6>
+					<p><small>Gern übernehmen wir für Sie, auch in kleineren Besetzungen, die musikalische Umrahmung von Veranstaltungen. Sprechen Sie uns einfach per E-Mail an und Sie bekommen kurzfristig eine Rückinfo von uns. Die Mail-Adresse finden Sie im Footer links.</small></p>
+					<!-- <h5 class="text-center text-danger">Zur Zeit ausgesetzt :-\</h5> -->
+				</div>
+			</div>
+		</div>
+	</main>
+<footer>
+  <div class="container pt-3">
+    <div class="row row-cols-auto">
+      <div class="col mx-auto"> <a class="text-dark" href="mailto:info@viaphoniker.de" target="_blank"> <img class="social-img mx-auto" src="img/pencil-square.svg" alt="E-Mail"> </a> </div>
+      <div class="col mx-auto"> <a href="https://www.instagram.com/viaphoniker" target="_blank"> <img class="social-img" src="img/instagram.svg" alt="Instagramm"> </a> </div>
+      <div class="col mx-auto"> <a href="https://www.facebook.com/viaphoniker" target="_blank"> <img class="social-img" src="img/facebook.svg" alt="Facebook"> </a> </div>
+    </div>
+  </div>
+</footer>
+
+<!-- Bootstrap Bundle with Popper --> 
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script> 
+<script>
+      // Prepare the body tag by adding a "js-paused" class
+      document.body.className += " js-loading";
+
+      // Listen for when everything has loaded
+      window.addEventListener("load", showPage, false);
+
+      function showPage() {
+        // Remove the "js-paused" class
+        document.body.className = document.body.className.replace("js-loading","");
+      }
+    </script>
+
+<!-- script for carousel -->
+<script>
+		document.getElementById('sticker').src = "img/Sticker.gif";
+		document.getElementById('sticker').addEventListener('mouseover', animOn);
+		document.getElementById('sticker').addEventListener('mouseout', animOff);
+
+		function animOn() {
+			let On = document.getElementById('sticker');
+			On.src = "img/via-logo-anim.gif";
+		}
+
+		function animOff() {
+			let Off = document.getElementById('sticker');
+			Off.src = "img/Sticker.gif";
+		}
+
+	</script>
+	<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+</body>
+</html>
