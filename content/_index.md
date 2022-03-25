@@ -1,7 +1,9 @@
 ---
 title: Viaphoniker
 date: 2022-02-11T16:00:02.000+01:00
-
+draft: false
+menu: main
+weight: 10
 ---
 ## Was gibt´s heute Neues?
 

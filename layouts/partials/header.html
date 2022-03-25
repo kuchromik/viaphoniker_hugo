@@ -1,7 +1,7 @@
 <nav id="navbar" class="navbar navbar-expand-lg sticky-top py-2 ">
   <div class="container"> 
     
-    <a class="navbar-brand ms-2" href="index.html"> <img id="sticker" alt="VIAPHONIKER"> </a>
+    <a class="navbar-brand ms-2" href="/"> <img id="sticker" alt="VIAPHONIKER"> </a>
     <div class="menu-wrap">
       <input type="checkbox" class="toggler" autocomplete="off">
       <div class="hamburger">
@@ -11,13 +11,12 @@
         <div>
           <div>
             <ul>
-              <li><a href="index.html">Aktuelles</a></li>
-              <li><a href="musizierende.html">Musizierende</a></li>
-              <li><a href="proben.html">Proben</a></li>
-              <li><a href="probenwochenende.html">Probenwochenenden</a></li>
-              <li><a href="retrospektive.html">Retrospektive</a></li>
-              <li><a href="kontakt.html">Kontakt &amp; Buchung</a></li>
-              <li><a href="freunde.html">Förderer &amp; Freunde</a></li>
+              {{ range .Site.Menus.main }}
+              <li class="nav-item">
+                  <a class="nav-link {{ if $.IsMenuCurrent "main" . }} active" aria-current="page{{ end }}" href="{{ .URL }}">{{ .Pre }}
+                  <span>{{ .Name }}</span></a>
+              </li>
+          {{ end }}
             </ul>
           </div>
         </div>

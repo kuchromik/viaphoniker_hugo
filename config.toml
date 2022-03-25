@@ -7,3 +7,13 @@ unsafe = true
 
 [params]
 custom_css = ["css/header.css", "css/menu.css", "css/style.css"]
+
+[menu]
+[[menu.main]]
+  name = 'github'
+  url = 'http://www.github.com'
+  weight = 90
+  [[menu.main]]
+  name = 'google'
+  url = 'http://www.google.com'
+  weight = 100
