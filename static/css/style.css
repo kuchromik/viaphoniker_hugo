@@ -130,9 +130,6 @@ footer {
 .img-sm {
 	margin-top: 1rem;
 	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	width: 100%;
   }
   
   .img-sm img{
@@ -140,6 +137,6 @@ footer {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 100%;
+	width: 70%;
   }
   
