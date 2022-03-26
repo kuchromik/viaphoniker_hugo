@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: musicians
+  path: content/musicians
   label: MusikerInnen
   create: all
   match: "**/*"
