@@ -132,7 +132,7 @@ footer {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 50%;
+	width: 100%;
   }
   
   .img-sm img{
@@ -140,13 +140,6 @@ footer {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 50%;
+	width: 100%;
   }
   
-  .img-lg {
-	max-height: 500px;
-  }
-  
-  .img-lg img{
-	max-height:500px
-  }
