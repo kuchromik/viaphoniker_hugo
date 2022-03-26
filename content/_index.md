@@ -9,7 +9,6 @@ menu:
 ---
 ## Was gibt´s Neues? Der Viadrinapreis!
 
-![](/uploads/viadrinapreis.jpg)
 
 Am 5. Oktober 2021 wurde unserem Orchester der Viadrina-Förderpreis verliehen.  
 Monique Vollbrecht, unsere 1. Vorsitzende, nahm den Preis von Prof. Dr. Julia von Blumenthal  
