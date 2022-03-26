@@ -7,9 +7,7 @@ menu:
     weight: 10
 
 ---
-## Was gibt´s Neues?
-
-### Der Viadrinapreis!
+## Was gibt´s Neues? Der Viadrinapreis!
 
 ![](/uploads/viadrinapreis.jpg)
 
