@@ -1,0 +1,16 @@
+---
+label: musicianTemplate
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+pages:
+- content/contact/buchung.md
+- content/contact/registereintrag.md
+- content/contact/vorstand.md
+- content/musicians/lea.md
+- content/musicians/tony.md
