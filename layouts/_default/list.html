@@ -17,5 +17,24 @@
         </li>
     {{ end }}
     </ul>
-</main>
+
+    {{ if .Params.cards }}
+        <div class="row g-3 p-3">
+            {{ range $e := .Params.cards }}
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="{{ .image }}" class="card-img-top" alt="{{ .title }}">
+                        <div class="card-body">
+                            <h5 class="card-title">{{ .title }}</h5>
+                            <p class="card-text">{{ .text }}</p>
+                            {{ with .link }}
+                                <a href="{{ . }}" class="btn btn-primary">{{ $e.linkText }}</a>
+                            {{ end }}
+                        </div>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    {{ end }}
+   </main>
 {{ end }}

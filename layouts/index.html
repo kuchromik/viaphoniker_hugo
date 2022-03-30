@@ -2,5 +2,9 @@
 
 {{ .Content }}
 
+{{ $image := resources.Get "img/viadrinapreis.jpg" }}
+
+<img src="{{ ( $image.Resize " 500x Lanczos }}" ).RelPermalink}}" />
+
 
 {{ end }}
