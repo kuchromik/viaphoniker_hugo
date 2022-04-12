@@ -1,6 +1,26 @@
 {{ define "main" }}
 
+<h1 style="text-align: center;">{{ .Page.Title }}</h1>
+
 {{ .Content }}
 
+{{ if .Params.cards }}
+<div class="row g-3 p-3">
+    {{ range $e := .Params.cards }}
+    <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card">
+            <img src="{{ .image }}" class="card-img-top" alt="{{ .title }}">
+                <div class="card-body">
+                    <h5 class="card-title">{{ .title }}</h5>
+                    <p class="card-text">{{ .text }}</p>
+                    {{ with .link }}
+                        <a href="{{ . }}" target="_blank" class="btn btn-secondary">{{ $e.linkText }}</a>
+                    {{ end }}
+                </div>
+        </div>
+    </div>
+    {{ end }}
 
+</div>
+{{ end }}
 {{ end }}

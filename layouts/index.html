@@ -2,9 +2,12 @@
 
 {{ .Content }}
 
+<!-- Variante zur Bilddarstellung; Bildquelle unter /assets
+weitere Infos unter https://gohugo.io/content-management/image-processing
+
 {{ $image := resources.Get "img/viadrinapreis.jpg" }}
 
 <img src="{{ ( $image.Resize " 500x Lanczos }}" ).RelPermalink}}" />
-
+-->
 
 {{ end }}
