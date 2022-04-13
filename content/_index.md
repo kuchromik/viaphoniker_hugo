@@ -1,6 +1,7 @@
 ---
 title: Aktuelles
-date: 2022-02-11T16:00:02.000+01:00
+date: 2022-04-12
+draft: false
 weight: "10"
 menu:
   main:
@@ -9,8 +10,6 @@ menu:
 ---
 
 [comment]: <> (Bilder in den Ordner /static speichern, Bildbreite 800 Pixel anstreben)
-
-{{% centerH1 %}}Aktuelles{{% /centerH1 %}}
 
 {{% centerH5 %}}Verleihung des Viadrina-Förderpreises an die Viaphoniker{{% /centerH5 %}}
 

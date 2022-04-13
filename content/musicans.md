@@ -1,7 +1,7 @@
 ---
 title: Typische ViaphonikerInnen
-date: 2017-03-23
-publishdate: 2017-03-24
+date: 2022-04-12
+draft: false
 weight: "40"
 menu:
   main:
@@ -27,4 +27,4 @@ cards:
   linkText:
 ---
 
-[comment]: <> (Bilder für die Cards im frontmatter in den Ordner /static speichern, Bildbreite 333 x 333 Pixel anstreben)
+[comment]: <> (Bilder für die (Cards im frontmatter) in den Ordner /static speichern, Bildbreite 333 x 333 Pixel anstreben)

@@ -1,5 +1,3 @@
-
-
 {{ define "main" }}
 <main>
     <article>
@@ -22,22 +20,25 @@
     -->
 
     {{ if .Params.cards }}
-        <div class="row g-3 p-3">
-            {{ range $e := .Params.cards }}
-            <div class="col-sm-3">
-                <div class="card">
-                    <img src="{{ .image }}" class="card-img-top" alt="{{ .title }}">
-                        <div class="card-body">
-                            <h5 class="card-title">{{ .title }}</h5>
-                            <p class="card-text">{{ .text }}</p>
-                            {{ with .link }}
-                                <a href="{{ . }}" class="btn btn-primary">{{ $e.linkText }}</a>
-                            {{ end }}
-                        </div>
-                </div>
+    <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-3 g-4">
+        {{ range $e := .Params.cards }}
+            <div class="col">
+                    <div class="card border-secondary">
+                        <img src="{{ .image }}" class="card-img-top" alt="{{ .title }}">
+                            <div class="card-body">
+                                <h5 class="card-title">{{ .title }}</h5>
+                                <p class="card-text"></p>
+                                {{ with .link }}
+                                    <a href="{{ . }}" target="_blank" class="btn btn-secondary">{{ $e.linkText }}</a>
+                                {{ end }}
+                            </div>
+                            <div class="card-footer">
+                                <small class="text-muted">{{ .text }}</small>
+                            </div>
+                    </div>
             </div>
-            {{ end }}
-        </div>
-    {{ end }}
+        {{ end }}
+    </div>
+{{ end }}
    </main>
 {{ end }}

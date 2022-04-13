@@ -1,26 +1,35 @@
 {{ define "main" }}
 
-<h1 style="text-align: center;">{{ .Page.Title }}</h1>
+{{ $update := .Page.Date }}
+
+<h1 style="text-align: center; padding: 1rem;">{{ .Page.Title }}</h1>
 
 {{ .Content }}
 
 {{ if .Params.cards }}
-<div class="row g-3 p-3">
-    {{ range $e := .Params.cards }}
-    <div class="col-sm-6 col-md-4 col-lg-3">
-        <div class="card">
-            <img src="{{ .image }}" class="card-img-top" alt="{{ .title }}">
-                <div class="card-body">
-                    <h5 class="card-title">{{ .title }}</h5>
-                    <p class="card-text">{{ .text }}</p>
-                    {{ with .link }}
-                        <a href="{{ . }}" target="_blank" class="btn btn-secondary">{{ $e.linkText }}</a>
+    <div class="row row-cols-1 row-cols-lg-2 g-4">
+        {{ range $e := .Params.cards }}
+            <div class="col">
+                <div class="card border-secondary">
+                    {{ with .image }}
+                        <img src="{{ . }}" class="card-img-top" alt="Bild">
                     {{ end }}
+                        <div class="card-body">
+                            <h5 class="card-title">{{ .title }}</h5>
+                            <p class="card-text"></p>
+                            {{ with .link }}
+                                <a href="{{ . }}" target="_blank" class="btn btn-secondary">{{ $e.linkText }}</a>
+                            {{ end }}
+                        </div>
+                        <div class="card-footer">
+                            <small class="text-muted">{{ .text }}</small>
+                        </div>    
                 </div>
-        </div>
+            </div>
+        {{ end }}
     </div>
-    {{ end }}
-
-</div>
 {{ end }}
+<hr>
+<small class="text-muted">Letzte Aktualisierung {{ $update.Format "02.01.2006" }}</small>
+
 {{ end }}
