@@ -1,5 +1,5 @@
 ---
-title: "Unsere Probenwochenenden"
+title: "Probenwochenende"
 date: 2022-04-12
 draft: false
 menu: main

@@ -98,3 +98,21 @@ footer {
 	margin-left: auto;
 	margin-right: auto;
 	}
+
+
+.posts > ul > li {
+	list-style: none;
+	padding: .5rem;
+	}
+
+.posts > ul > li > a {
+	text-decoration: none;
+	color: var(--menu-grey);
+	font-size: 1.3rem;
+	}
+
+.posts > ul > li > a:hover {
+	color: black;
+	font-weight: bold;
+	transition: color 0.4s ease;
+	  }

@@ -1,6 +1,6 @@
 ---
 title: "ViaphonikerMeetsPoetrySlam"
-date: 2022-03-26T14:27:15+01:00
+date: 2021-11-12
 draft: false
 ---
 

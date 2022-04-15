@@ -1,5 +1,5 @@
 ---
-title: Unsere Freunde und Förderer
+title: Freunde und Förderer
 date: 2022-04-12
 draft: false
 menu: main

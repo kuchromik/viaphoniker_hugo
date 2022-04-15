@@ -1,5 +1,5 @@
 ---
-title: "Unsere Dienstagsproben"
+title: "Dienstagsprobe"
 date: 2022-04-12
 draft: false
 menu: main
