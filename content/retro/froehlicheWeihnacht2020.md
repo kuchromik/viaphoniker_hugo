@@ -1,5 +1,5 @@
 ---
-title: "Fröhliche Weihnacht 2020"
+title: "Fröhliche Weihnacht"
 date: 2020-12-24
 draft: false
 ---
