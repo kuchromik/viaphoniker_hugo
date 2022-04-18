@@ -4,16 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: directory
-  path: content/contact
-  label: Kontakt
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/musicians
-  label: MusikerInnen
-  create: all
-  match: "**/*"
 - type: document
   path: content
   label: content
