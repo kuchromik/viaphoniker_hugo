@@ -6,9 +6,9 @@ webhook_url:
 sections:
 - type: directory
   path: retro
-  label: retro
+  label: Retro
   create: all
-  match: "**/*"
+  match: "*"
 - type: directory
   path: content
   label: Pages
