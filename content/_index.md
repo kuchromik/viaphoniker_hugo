@@ -7,8 +7,6 @@ menu:
     weight: 1
 
 ---
-{{% centerH5 %}}Wir eröffnen das deutsch-polnische Kunstfestival “Art an der Grenze” musikalisch!{{% /centerH5 %}}
+{{% centerH5 %}}Wir eröffnen am 23.April 2022 das deutsch-polnische Kunstfestival “Art an der Grenze”  in der Frankfurter Kleinen Oderstraße 10 {{% /centerH5 %}}
 
-Am 23.April 2022 eröffnen wir das Festival"Art an der Grenze" in der Frankfurter Kleinen Oderstraße 10. Wir freuen uns auf viele Zuhörer!
-
-{{< figure src="/img/artandergrenze.jpg" class="img-sm" alt="Viadrinapreisverleihung" >}}
+{{< figure src="/img/artandergrenze.jpg" class="img-sm" alt="Art an der Grenze" >}}
