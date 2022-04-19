@@ -3,8 +3,5 @@ languageCode = "de-de"
 title = "ViaphonikerInnen"
 [markup.goldmark.renderer]
 unsafe = true
-[[menu.main]]
-name = "Retrospektive"
-weight = 6
 [params]
 custom_css = ["css/menu.css", "css/style.css"]

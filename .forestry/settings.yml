@@ -5,12 +5,17 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: content/retro
+  label: Retrospective
+  create: all
+  match: "*"
+- type: directory
   path: content
   label: Pages
   create: all
   match: "*"
-upload_dir: static/uploads
-public_path: "/uploads"
+upload_dir: static/img
+public_path: ''
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"

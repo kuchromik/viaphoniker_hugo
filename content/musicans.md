@@ -20,6 +20,11 @@ cards:
   image: "/img/matheusz.jpg"
   link: ''
   linkText: ''
+- title: Oleksi
+  text: spielt Klavier
+  image: "/img/oleksi.jpg"
+  link: ''
+  linkText: ''
 - title: Du
   text: spielst Dein Lieblingsintrument
   image: "/img/unknown.jpg"
@@ -27,7 +32,7 @@ cards:
   linkText: 
 menu:
   main:
-    weight: 4
+    weight: 5
 
 ---
 [comment]: <> (Bilder für die (Cards im frontmatter) in den Ordner /static speichern, Bildbreite 333 x 333 Pixel anstreben)

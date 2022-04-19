@@ -1,16 +1,12 @@
 ---
 title: Aktuelles
-date: 2022-04-12
+date: 2022-04-19T00:00:00+02:00
 weight: "10"
 menu:
   main:
     weight: 1
 
 ---
-[comment]: <> (Bilder in den Ordner /static speichern, Bildbreite 800 Pixel anstreben)
+{{% centerH5 %}}Wir eröffnen am 23.April 2022 um 16 Uhr das deutsch-polnische Kunstfestival “Art an der Grenze”  in der Frankfurter Kleinen Oderstraße 10 {{% /centerH5 %}}
 
-{{% centerH5 %}}Verleihung des Viadrina-Förderpreises an die Viaphoniker{{% /centerH5 %}}
-
-Am 5. Oktober 2021 wurde unserem Orchester der Viadrina-Förderpreis verliehen. Monique Vollbrecht, unsere 1. Vorsitzende, nahm den Preis von Prof. Dr. Julia von Blumenthal im Beisein unserer beiden Dirigenten Robert Hübner und Tony Köster entgegen.
-
-{{< figure src="/img/viadrinapreis.jpg" class="img-sm" alt="Viadrinapreisverleihung" >}}
+{{< figure src="/img/artandergrenze.jpg" class="img-sm" link="https://artandergrenze.wordpress.com" target="_blank" alt="Art an der Grenze" >}}

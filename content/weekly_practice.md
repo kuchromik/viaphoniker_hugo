@@ -4,7 +4,7 @@ date: 2022-04-12
 weight: "20"
 menu:
   main:
-    weight: 2
+    weight: 3
 
 ---
 [comment]: <> (Hier stehen Informationen zu unserer wöchentlichen Probe)
