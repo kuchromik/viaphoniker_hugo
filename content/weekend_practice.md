@@ -4,7 +4,7 @@ date: 2022-04-12
 weight: "30"
 menu:
   main:
-    weight: 3
+    weight: 4
 
 ---
 [comment]: <> (Hier stehen Informationen zu unseren Probenwochenenden)
