@@ -3,11 +3,6 @@ title: Typische ViaphonikerInnen
 date: 2022-04-12
 weight: "40"
 cards:
-- title: Matheusz
-  text: spielt Klarinette
-  image: "/img/matheusz.jpg"
-  link: ''
-  linkText: ''
 - title: Monique
   text: spielt Tuba und Akkordeon
   image: "/img/monique.jpg"
@@ -20,6 +15,11 @@ cards:
 - title: Kai
   text: spielt Posaune und Euphonium
   image: "/img/kai.jpg"
+- title: Matheusz
+  text: spielt Klarinette
+  image: "/img/matheusz.jpg"
+  link: ''
+  linkText: ''
 - title: Du
   text: spielst Dein Lieblingsintrument
   image: "/img/unknown.jpg"
