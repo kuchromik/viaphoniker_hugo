@@ -1,30 +1,33 @@
 ---
 title: Typische ViaphonikerInnen
 date: 2022-04-12
-draft: false
 weight: "40"
-menu:
-  main:
-    weight: 40
-
-cards: 
+cards:
 - title: Monique
   text: spielt Tuba und Akkordeon
-  image: /img/monique.jpg
+  image: "/img/monique.jpg"
 - title: Robert
-  text: spielt Schlagwerk und dirigiert
-  image: /img/robert.jpg
+  text: spielt Klavier und dirigiert
+  image: "/img/robert.jpg"
 - title: Lea
   text: spielt Violine und Trompete
-  image: /img/lea.jpg
+  image: "/img/lea.jpg"
 - title: Kai
   text: spielt Posaune und Euphonium
-  image: /img/kai.jpg
+  image: "/img/kai.jpg"
+- title: Matheusz
+  text: spielt Klarinette
+  image: "/img/matheusz.jpg"
+  link: ''
+  linkText: ''
 - title: Du
   text: spielst Dein Lieblingsintrument
-  image: /img/unknown.jpg
+  image: "/img/unknown.jpg"
   link: 
-  linkText:
----
+  linkText: 
+menu:
+  main:
+    weight: 4
 
+---
 [comment]: <> (Bilder für die (Cards im frontmatter) in den Ordner /static speichern, Bildbreite 333 x 333 Pixel anstreben)
