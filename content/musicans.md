@@ -3,11 +3,6 @@ title: Typische ViaphonikerInnen
 date: 2022-04-12
 weight: "40"
 cards:
-- title: Oleksi
-  text: spielt Klavier
-  image: "/img/oleksi.jpg"
-  link: ''
-  linkText: ''
 - title: Monique
   text: spielt Tuba und Akkordeon
   image: "/img/monique.jpg"
@@ -23,6 +18,11 @@ cards:
 - title: Matheusz
   text: spielt Klarinette
   image: "/img/matheusz.jpg"
+  link: ''
+  linkText: ''
+- title: Oleksi
+  text: spielt Klavier
+  image: "/img/oleksi.jpg"
   link: ''
   linkText: ''
 - title: Du
