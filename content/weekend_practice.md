@@ -1,11 +1,12 @@
 ---
-title: "Probenwochenende"
+title: Probenwochenende
 date: 2022-04-12
-draft: false
-menu: main
-weight: 30
----
+weight: "30"
+menu:
+  main:
+    weight: 3
 
+---
 [comment]: <> (Hier stehen Informationen zu unseren Probenwochenenden)
 
 {{% centerH5 %}}Zweimal im Jahr bereiten wir uns im Rahmen eines Probenwochenendes auf bevorstehende Konzerte vor.

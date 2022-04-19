@@ -22,7 +22,7 @@ cards:
   linkText: 
 menu:
   main:
-    weight: 40
+    weight: 4
 
 ---
 [comment]: <> (Bilder für die (Cards im frontmatter) in den Ordner /static speichern, Bildbreite 333 x 333 Pixel anstreben)
