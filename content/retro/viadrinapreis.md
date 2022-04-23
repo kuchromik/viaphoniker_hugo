@@ -2,6 +2,7 @@
 title: "Viadrina-Förderpreises"
 date: 2021-10-05
 draft: false
+featured_image: viadrinapreis_800.jpg
 ---
 
 [comment]: <> (Bilder in den Ordner /static speichern, Bildbreite 800 Pixel anstreben)

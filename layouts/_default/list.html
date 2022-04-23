@@ -14,11 +14,18 @@
     </article>
 
     <div class="posts">
-        <ul> 
+        <ul class="retroliste"> 
         <!--Ranges through content/retro/*.md -->
         {{ range .Pages }}
             <li>
-                <a href="{{.Permalink}}">{{.Date.Format "02.01.2006" }} | {{.Title}}</a>
+                <a href="{{.Permalink}}">
+                {{ $imagePath := printf "/img/%s" .Params.featured_image }}
+                {{ $image := resources.Get $imagePath }}
+                <img src="{{ ($image.Fill "100x100 q75 center").RelPermalink }}"/>
+                <span class="retrotext">
+                    {{.Date.Format "02.01.06" }} {{.Title}}
+                </span>
+                </a>
             </li>
         {{ end }}
         </ul>

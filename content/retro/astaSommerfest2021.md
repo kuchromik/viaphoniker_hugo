@@ -2,6 +2,7 @@
 title: "TopTen 2021"
 date: 2021-06-07
 draft: false
+featured_image: viaphonikerTopTen_800.jpg
 ---
 
 {{% centerH5 %}}Viaphonikers TopTen zum AStA-Sommerfest 2021{{% /centerH5 %}}

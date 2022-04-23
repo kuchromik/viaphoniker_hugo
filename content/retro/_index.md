@@ -7,4 +7,5 @@ menu:
     weight: 2
 
 ---
-{{% centerH5 %}}Was in letzter Zeit geschah{{% /centerH5 %}}
+
+{{% centerH5 %}}Was in letzter Zeit geschah:{{% /centerH5 %}}
