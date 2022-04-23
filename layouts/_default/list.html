@@ -21,9 +21,9 @@
                 <a href="{{.Permalink}}">
                 {{ $imagePath := printf "/img/%s" .Params.featured_image }}
                 {{ $image := resources.Get $imagePath }}
-                <img src="{{ ($image.Fill "100x100 q75 center").RelPermalink }}"/>
+                <img src="{{ ($image.Fill "200x112 q75 center").RelPermalink }}"/>
                 <span class="retrotext">
-                    {{.Date.Format "02.01.06" }} {{.Title}}
+                    {{.Date.Format "02.01.06" }} {{.Title}} 
                 </span>
                 </a>
             </li>
