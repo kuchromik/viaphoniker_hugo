@@ -28,4 +28,3 @@ menu:
     weight: 6
 
 ---
-[comment]: <> (Bilder für die (Cards im frontmatter) in den Ordner /static speichern, Bildbreite 333 x 333 Pixel anstreben)

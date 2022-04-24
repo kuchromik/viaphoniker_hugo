@@ -7,7 +7,6 @@ menu:
     weight: 3
 
 ---
-[comment]: <> (Hier stehen Informationen zu unserer wöchentlichen Probe)
 
 {{% centerH5 %}}Wir proben aktuell dienstags ab 18.30 Uhr im Audimax. Interessierte sind immer willkommen.{{% /centerH5 %}}
 
