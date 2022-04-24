@@ -2,9 +2,8 @@
 title: "City of Stars"
 date: 2021-04-20
 draft: false
+subtitle: aus LaLaLand - gespielt im April 2021
 featured_image: cityOfStars_800.jpg
+featured_link: https://www.youtube.com/watch?v=CeeE81ha-zo
 ---
 
-{{% centerH5 %}}aus LaLaLand - gespielt im April 2021{{% /centerH5 %}}
-
-{{< youtube id="CeeE81ha-zo" title="City of Stars from LaLaLand" >}}

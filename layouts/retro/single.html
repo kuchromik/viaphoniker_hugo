@@ -1,15 +1,26 @@
 {{ define "main" }}
 
 {{ $update := .Page.Date }}
+{{ $subtitle := .Params.subtitle }}
+{{ $featured_link := .Params.featured_link }}
 
 <h1 style="text-align: center; padding: 1rem;">{{ .Page.Title }}</h1>
+<h5 style="text-align: center; padding-bottom: 1rem;">{{ $subtitle }}</h5>
 
 {{ .Content }}
 
-<br>
-
-<a href="../" class="btn btn-secondary">zurück zur Retro-Liste</a>
-
+{{ if .Params.featured_image }}
+<div class="retrobox">
+    <a href="{{ $featured_link }}" target="_blank">
+        {{ $imagePath := printf "/img/%s" .Params.featured_image }}
+        {{ $image := resources.Get $imagePath }}
+        <img src="{{ ($image.Resize "800x450 Lanczos").RelPermalink }}"/>
+    </a>
+</div>
+{{ end }}
+<div class="retrobox">
+    <a href="../" class="btn btn-secondary mt-3">zurück zur Retro-Liste</a>
+</div>
 <hr>
 <small class="text-muted">Letzte Aktualisierung {{ $update.Format "02.01.2006" }}</small>
 

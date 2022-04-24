@@ -1,12 +1,12 @@
 ---
 title: Aktuelles
-date: 2022-04-19T00:00:00+02:00
+date: 2022-04-23T00:00:00+02:00
+subtitle: Eröffnung des Kunstfestivals »Art an der Grenze« am 23.April 2022
+featured_text: »I am still standing« - welches bessere Motto hätte es für ein Kulturevent geben können, dass zwei Jahre pausieren musste. Die Viaphoniker wünschen ein erfolgreiches Festival.
+featured_image: artandergrenze_2022_800.jpg
+featured_link: http://viaphoniker.eu/img/ArtanderGrenze_2022.mp4
 weight: "10"
 menu:
   main:
     weight: 1
-
 ---
-{{% centerH5 %}}Wir eröffnen am 23.April 2022 um 16 Uhr das deutsch-polnische Kunstfestival “Art an der Grenze”  in der Frankfurter Kleinen Oderstraße 10 {{% /centerH5 %}}
-
-{{< figure src="/img/artandergrenze.jpg" class="img-sm" link="https://artandergrenze.wordpress.com" target="_blank" alt="Art an der Grenze" >}}

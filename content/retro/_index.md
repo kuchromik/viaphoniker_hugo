@@ -1,6 +1,7 @@
 ---
 title: Retrospektive
-date: 2022-04-13
+date: 2021-11-12
+subtitle: "Was zuletzt geschah:"
 weight: "50"
 menu:
   main:
@@ -8,4 +9,3 @@ menu:
 
 ---
 
-{{% centerH5 %}}Was in letzter Zeit geschah:{{% /centerH5 %}}

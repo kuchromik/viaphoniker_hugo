@@ -1,15 +1,35 @@
 {{ define "main" }}
 
-<h1 style="text-align: center; padding: 1rem;">{{ .Page.Title }}</h1>
-
-{{ .Content }}
-
-
 {{ $update := .Page.Date }}
+{{ $subtitle := .Params.subtitle }}
+{{ $featured_link := .Params.featured_link }}
 
-<hr>
+<main>
+    <article>
+        <header>
+            <h1 style="text-align: center; padding: 1rem;">{{ .Page.Title }}</h1>
+            <h5 style="text-align: center; padding-bottom: 1rem;">{{ $subtitle }}</h5>
+        </header>
+        <!-- "{{.Content}}" pulls from the markdown content of the corresponding _index.md -->
+        {{ .Content }}
+        <br>
+    </article>
+
+    
+
+    <div class="retrobox">
+        <a href="{{ $featured_link }}" target="_blank">
+            {{ $imagePath := printf "/img/%s" .Params.featured_image }}
+            {{ $image := resources.Get $imagePath }}
+            <img src="{{ ($image.Resize "800x450 Lanczos").RelPermalink }}"/>
+        </a>
+    </div>
+    <div class="retrobox">
+        <h6 style="text-align: center; padding: 1rem; max-width: 800px;">{{ .Params.featured_text }}</h6>
+    </div>
+    <hr>
+</main>
 <small class="text-muted">Letzte Aktualisierung {{ $update.Format "02.01.2006" }}</small>
-
 
 {{ end }}
 
