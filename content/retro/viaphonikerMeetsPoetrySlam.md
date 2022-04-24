@@ -4,7 +4,7 @@ date: 2021-11-12
 draft: false
 subtitle: gemeinsamer Auftritt mit David Friedrich und Ken Yamamoto im November 2021
 featured_image: viaphoniker_PoetrySlam_800.jpg
-featured_link: http://viaphoniker.eu/img/Viaphoniker_PoetrySlam.mp4
+featured_link: https://magentacloud.de/s/NtxjN7J6j8ECHpW
 ---
 
 
