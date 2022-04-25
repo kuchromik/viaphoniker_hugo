@@ -49,7 +49,7 @@ a,
 	height: auto;
 	border-style: solid;
 	border-width: 2px;
-	border-color: darkblue;
+	border-color: #ffdb4c;
 	display: block;
 	margin: 0 auto;
 }
@@ -60,7 +60,7 @@ video {
 	height: auto;
 	border-style: solid;
 	border-width: 3px;
-	border-color: darkblue;
+	border-color: #ffdb4c;
 	display: block;
 	margin: 0 auto;
 
@@ -120,6 +120,13 @@ footer {
 	display: flex; 
 	justify-content : flex-end;
 		}
+
+.thumb-right > a > img:hover {
+	border-style: solid;
+	border-width: 3px;
+	border-color: #ffdb4c;
+	transition: border 0.4s ease;
+}
 
 .retrobox {
 			display: flex; 

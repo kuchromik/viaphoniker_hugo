@@ -4,24 +4,32 @@
 {{ $subtitle := .Params.subtitle }}
 {{ $featured_link := .Params.featured_link }}
 
-<h1 style="text-align: center; padding: 1rem;">{{ .Page.Title }}</h1>
-<h5 style="text-align: center; padding-bottom: 1rem;">{{ $subtitle }}</h5>
+<main>
+    <article>
+        <header>
+            <h1 style="text-align: center; padding: 1rem;">{{ .Page.Title }}</h1>
+            <h5 style="text-align: center; padding-bottom: 1rem;">{{ $subtitle }}</h5>
+        </header>
+        <!-- "{{.Content}}" pulls from the markdown content of the corresponding _index.md -->
+        {{ .Content }}
+        <br>
+    </article>
 
-{{ .Content }}
-
-{{ if .Params.featured_image }}
-<div class="retrobox">
-    <a href="{{ $featured_link }}" target="_blank">
+    {{ if (and ( $featured_link ) ( .Params.featured_image )) }}
+    <div class="retrobox">
         {{ $imagePath := printf "/img/%s" .Params.featured_image }}
         {{ $image := resources.Get $imagePath }}
-        <img src="{{ ($image.Resize "800x450 Lanczos").RelPermalink }}"/>
-    </a>
-</div>
-{{ end }}
-<div class="retrobox">
-    <a href="../" class="btn btn-secondary mt-3">zurück zur Retro-Liste</a>
-</div>
-<hr>
+        <video controls poster="{{ ($image.Resize "800x450 Lanczos").RelPermalink }}" src="{{ $featured_link }}"></video>
+    </div>
+    <div class="retrobox">
+        <h6 style="text-align: center; padding: 1rem; max-width: 800px;">{{ .Params.featured_text }}</h6>
+    </div>
+    {{ end }}
+    <div class="retrobox">
+        <a href="../" class="btn btn-secondary mt-3">zurück zur Retro-Liste</a>
+    </div>
+    <hr>
+</main>
 <small class="text-muted">Letzte Aktualisierung {{ $update.Format "02.01.2006" }}</small>
 
 {{ end }}

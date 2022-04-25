@@ -15,18 +15,16 @@
         <br>
     </article>
 
-    
-
+    {{ if (and ( $featured_link ) ( .Params.featured_image )) }}
     <div class="retrobox">
-        <a href="{{ $featured_link }}" target="_blank">
-            {{ $imagePath := printf "/img/%s" .Params.featured_image }}
-            {{ $image := resources.Get $imagePath }}
-            <img src="{{ ($image.Resize "800x450 Lanczos").RelPermalink }}"/>
-        </a>
+        {{ $imagePath := printf "/img/%s" .Params.featured_image }}
+        {{ $image := resources.Get $imagePath }}
+        <video controls poster="{{ ($image.Resize "800x450 Lanczos").RelPermalink }}" src="{{ $featured_link }}"></video>
     </div>
     <div class="retrobox">
         <h6 style="text-align: center; padding: 1rem; max-width: 800px;">{{ .Params.featured_text }}</h6>
     </div>
+    {{ end }}
     <hr>
 </main>
 <small class="text-muted">Letzte Aktualisierung {{ $update.Format "02.01.2006" }}</small>

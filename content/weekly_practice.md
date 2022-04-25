@@ -1,13 +1,13 @@
 ---
 title: Dienstagsprobe
 date: 2022-04-12
+subtitle: Wir proben aktuell dienstags ab 18.30 Uhr im Audimax.
+featured_text: Interessierte sind immer willkommen.
+featured_image: videoausschnitt_800.jpg
+featured_link: http://viaphoniker.eu/proben.mp4
 weight: "20"
 menu:
   main:
     weight: 3
 
 ---
-
-{{% centerH5 %}}Wir proben aktuell dienstags ab 18.30 Uhr im Audimax. Interessierte sind immer willkommen.{{% /centerH5 %}}
-
-{{< figure src="/img/videoausschnitt_800.jpg" link="https://magentacloud.de/s/qwEmjqD2PdXq8mZ" target="_blank" class="img-sm" alt="Dienstagsprobe" >}}
