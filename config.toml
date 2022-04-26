@@ -1,4 +1,4 @@
-baseURL = "https://gracious-ardinghelli-66b164.netlify.app/"
+baseURL = "http://viaphoniker.eu"
 languageCode = "de-de"
 title = "ViaphonikerInnen"
 [markup.goldmark.renderer]
