@@ -40,7 +40,7 @@
         </div>
     {{ end }}
 
-    {{ if (and ( .Params.featured_link ) ( .Params.featured_image )) }}
+    {{ if (or ( .Params.featured_link ) ( .Params.featured_image )) }}
     <div class="retrobox">
         {{ $imagePath := printf "/img/%s" .Params.featured_image }}
         {{ $image := resources.Get $imagePath }}
