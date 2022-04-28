@@ -40,12 +40,26 @@
         </div>
     {{ end }}
 
-    {{ if (or ( .Params.featured_link ) ( .Params.featured_image )) }}
+    {{ if (and ( .Params.featured_link ) ( .Params.featured_image )) }}
     <div class="retrobox">
         {{ $imagePath := printf "/img/%s" .Params.featured_image }}
         {{ $image := resources.Get $imagePath }}
         <video controls poster="{{ ($image.Resize "800x450 Lanczos").RelPermalink }}" src="{{ $featured_link }}"></video>
     </div>
+    {{ else if ( .Params.featured_link ) }}
+    <div class="retrobox">
+        {{ $imagePath := printf "/img/%s" .Params.featured_image }}
+        {{ $image := resources.Get $imagePath }}
+        <video controls src="{{ $featured_link }}"></video>
+    </div>
+    {{ else if ( .Params.featured_image ) }}
+    <div class="retrobox">
+        {{ $imagePath := printf "/img/%s" .Params.featured_image }}
+        {{ $image := resources.Get $imagePath }}
+        <img src="{{ ($image.Resize "800x450 Lanczos").RelPermalink }}"/>
+    </div>
+    {{ end }}
+    {{ if ( .Params.featured_text ) }}
     <div class="retrobox">
         <h6 style="text-align: center; padding: 1rem; max-width: 800px;">{{ .Params.featured_text }}</h6>
     </div>
