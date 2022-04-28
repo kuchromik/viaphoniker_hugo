@@ -1,0 +1,25 @@
+---
+label: Template with title, Subtitle, text, image and videolink
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: subtitle
+  label: subtitle
+- type: text
+  name: featured_text
+  label: featured_text
+- type: file
+  name: featured_image
+  label: featured_image
+- type: text
+  name: featured_link
+  label: featured_link
+- type: text
+  name: weight
+  label: weight
