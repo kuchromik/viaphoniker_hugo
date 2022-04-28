@@ -131,8 +131,23 @@ footer {
 .retrobox {
 			display: flex; 
 			justify-content : center;
+			align-items: center;
 				}
 
 .retrobox > a > img {
 	max-width: 90vw;
 }
+
+.rotate {
+	animation: rotation 4s linear;
+	padding-right: 1rem;
+}
+
+@keyframes rotation {
+	from {
+	  transform: rotate(0deg);
+	}
+	to {
+	  transform: rotate(359deg);
+	}
+  }

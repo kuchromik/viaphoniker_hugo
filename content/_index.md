@@ -7,6 +7,7 @@ featured_text: "»I am still standing« - welches bessere Motto hätte es für e
   Festival."
 featured_image: artandergrenze_2022_800.jpg
 featured_link: http://chromikoffsetdruck.de/ArtanderGrenze_2022.mp4
+what_next: "Was kommt als nächstes? Seid gespannt!"
 weight: "10"
 menu:
   main:
