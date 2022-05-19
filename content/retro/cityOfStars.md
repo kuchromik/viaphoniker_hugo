@@ -5,6 +5,7 @@ draft: false
 subtitle: aus LaLaLand - gespielt im April 2021
 featured_text:
 featured_image: cityOfStars_800.jpg
+youtube: true
 ---
 
 {{< youtube CeeE81ha-zo >}}

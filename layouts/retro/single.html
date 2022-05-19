@@ -24,11 +24,9 @@
     </div>
     {{ else if ( .Params.featured_link ) }}
     <div class="retrobox">
-        {{ $imagePath := printf "/img/%s" .Params.featured_image }}
-        {{ $image := resources.Get $imagePath }}
         <video controls src="{{ $featured_link }}"></video>
     </div>
-    {{ else if ( .Params.featured_image ) }}
+    {{ else if (and ( .Params.featured_image ) ( not ( .Params.youtube ))) }}
     <div class="retrobox">
         {{ $imagePath := printf "/img/%s" .Params.featured_image }}
         {{ $image := resources.Get $imagePath }}
