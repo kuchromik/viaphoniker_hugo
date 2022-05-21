@@ -1,6 +1,6 @@
 ---
 title: Aktuelles
-date: 2022-04-23T00:00:00.000+02:00
+date: 2022-05-18T00:00:00.000+02:00
 subtitle: Eröffnung des Kunstfestivals »Art an der Grenze« am 23.April 2022
 featured_text: "»I am still standing« - welches bessere Motto hätte es für ein Kulturevent
   geben können, dass zwei Jahre pausieren musste? Die Viaphoniker wünschen ein erfolgreiches
