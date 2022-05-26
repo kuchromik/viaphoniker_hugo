@@ -121,11 +121,19 @@ footer {
 	justify-content : flex-end;
 		}
 
+.thumb-right > a > img {
+	border-style: solid;
+	border-width: 3px;
+	border-color: #ccc;
+	filter: sepia(100);
+}
+
 .thumb-right > a > img:hover {
 	border-style: solid;
 	border-width: 3px;
 	border-color: #ffdb4c;
-	transition: border 0.4s ease;
+	filter: sepia(0);
+	transition: border filter 0.4s ease;
 }
 
 .retrobox {
