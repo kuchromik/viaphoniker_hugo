@@ -159,3 +159,17 @@ footer {
 	  transform: rotate(359deg);
 	}
   }
+
+  .move {
+	animation-name: movetoright;
+	animation-timing-function: ease-out;                
+    animation-duration: 1s;  
+  }
+
+  @keyframes movetoright {
+    from {  transform: translateX(-100px)    }
+    to   {  transform: translateX(0px) }
+
+	from { opacity: 0; }
+    to { opacity: 1; }
+}
