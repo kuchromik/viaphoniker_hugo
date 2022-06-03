@@ -142,8 +142,12 @@ footer {
 			align-items: center;
 				}
 
-.retrobox > a > img {
+.retrobox > img {
 	max-width: 90vw;
+}
+
+.retrobox > video {
+	margin-bottom: 1rem;
 }
 
 .rotate {
