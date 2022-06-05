@@ -2,6 +2,7 @@
 
 {{ $update := .Page.Date }}
 {{ $subtitle := .Params.subtitle }}
+{{ $featured_video := .Params.featured_video }}
 {{ $featured_link := .Params.featured_link }}
 
 <main>
@@ -15,17 +16,25 @@
         <br>
     </article>
 
-    {{ if (and ( .Params.featured_link ) ( .Params.featured_image )) }}
+    {{ if (and ( .Params.featured_video ) ( .Params.featured_image )) }}
     <div class="retrobox">
         {{ $imagePath := printf "/img/%s" .Params.featured_image }}
         {{ $image := resources.Get $imagePath }}
-        <video controls poster="{{ ($image.Resize "800x450 Lanczos").RelPermalink }}" src="{{ $featured_link }}"></video>
+        <video controls poster="{{ ($image.Resize "800x450 Lanczos").RelPermalink }}" src="{{ $featured_video }}"></video>
     </div>
-    {{ else if ( .Params.featured_link ) }}
+    {{ else if ( .Params.featured_video ) }}
     <div class="retrobox">
         {{ $imagePath := printf "/img/%s" .Params.featured_image }}
         {{ $image := resources.Get $imagePath }}
-        <video controls src="{{ $featured_link }}"></video>
+        <video controls src="{{ $featured_video }}"></video>
+    </div>
+    {{ else if (and ( .Params.featured_image ) ( .Params.featured_link )) }}
+    <div class="retrobox">
+        {{ $imagePath := printf "/img/%s" .Params.featured_image }}
+        {{ $image := resources.Get $imagePath }}
+        <a href="{{ $featured_link }}" target="_blank">
+            <img src="{{ ($image.Resize "800x450 Lanczos").RelPermalink }}"/>
+        </a>
     </div>
     {{ else if ( .Params.featured_image ) }}
     <div class="retrobox">

@@ -6,5 +6,5 @@ featured_text: "»I am still standing« - welches bessere Motto hätte es für e
   geben können, dass zwei Jahre pausieren musste? Die Viaphoniker wünschen ein erfolgreiches
   Festival."
 featured_image: artandergrenze_2022_800.jpg
-featured_link: http://chromikoffsetdruck.de/ArtanderGrenze_2022.mp4
+featured_video: http://chromikoffsetdruck.de/ArtanderGrenze_2022.mp4
 ---
