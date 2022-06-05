@@ -5,7 +5,7 @@ subtitle: AStA-Sommerfest am 22. Juni 2022
 featured_text: "Wir spielen für Euch auf dem AStA-Sommerfest am 22. Juni."
 featured_image: asta_sommerfest_2022.jpg
 featured_link: https://www.asta-viadrina.de/sommerfest/
-what_next: Unser Semesterabschlusskonzert ...
+what_next: ... und danach? Unser Semesterabschlusskonzert
 weight: "10"
 menu:
   main:
