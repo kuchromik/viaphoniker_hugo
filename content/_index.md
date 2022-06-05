@@ -13,4 +13,3 @@ menu:
 
 ---
 
-https://www.asta-viadrina.de/sommerfest/
