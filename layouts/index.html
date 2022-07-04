@@ -33,14 +33,14 @@
         {{ $imagePath := printf "/img/%s" .Params.featured_image }}
         {{ $image := resources.Get $imagePath }}
         <a href="{{ $featured_link }}" target="_blank">
-            <img src="{{ ($image.Resize "800x450 Lanczos").RelPermalink }}"/>
+            <img src="{{ ($image.Resize "800x1132 Lanczos").RelPermalink }}"/>
         </a>
     </div>
     {{ else if ( .Params.featured_image ) }}
     <div class="retrobox">
         {{ $imagePath := printf "/img/%s" .Params.featured_image }}
         {{ $image := resources.Get $imagePath }}
-        <img src="{{ ($image.Resize "800x450 Lanczos").RelPermalink }}"/>
+        <img src="{{ ($image.Resize "800x1132 Lanczos").RelPermalink }}"/>
     </div>
     {{ end }}
     {{ if ( .Params.featured_text ) }}
