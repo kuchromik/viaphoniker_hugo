@@ -34,7 +34,7 @@ a,
 }
 
 #navbar {
-	background-color: #ffdb4c; 
+	background: linear-gradient(#ffdb4c, #bfa438);
 }
 
 #sticker {
@@ -121,18 +121,64 @@ footer {
 	justify-content : flex-end;
 		}
 
+.thumb-right > a > img {
+	border-style: solid;
+	border-width: 3px;
+	border-color: #ccc;
+	filter: sepia(100);
+}
+
 .thumb-right > a > img:hover {
 	border-style: solid;
 	border-width: 3px;
 	border-color: #ffdb4c;
-	transition: border 0.4s ease;
+	filter: sepia(0);
+	transition: border filter 0.4s ease;
 }
 
 .retrobox {
 			display: flex; 
 			justify-content : center;
+			align-items: center;
 				}
+
+.retrobox > img {
+	max-width: 90vw;
+}
 
 .retrobox > a > img {
 	max-width: 90vw;
+}
+
+
+.retrobox > video {
+	margin-bottom: 1rem;
+}
+
+.rotate {
+	animation: rotation 4s linear;
+	padding-right: 1rem;
+}
+
+@keyframes rotation {
+	from {
+	  transform: rotate(0deg);
+	}
+	to {
+	  transform: rotate(359deg);
+	}
+  }
+
+  .move {
+	animation-name: movetoright;
+	animation-timing-function: ease-out;                
+    animation-duration: 1s;  
+  }
+
+  @keyframes movetoright {
+    from {  transform: translateX(-100px)    }
+    to   {  transform: translateX(0px) }
+
+	from { opacity: 0; }
+    to { opacity: 1; }
 }

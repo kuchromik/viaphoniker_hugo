@@ -26,7 +26,7 @@
                         <a href="{{.Permalink}}">
                             {{ $imagePath := printf "/img/%s" .Params.featured_image }}
                             {{ $image := resources.Get $imagePath }}
-                            <img src="{{ ($image.Fill "112x112 q75 center").RelPermalink }}"/>
+                            <img class="move" src="{{ ($image.Fill "112x112 q75 center").RelPermalink }}"/>
                         </a>
                     </div>
                     <div class="col align-self-center">

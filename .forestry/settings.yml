@@ -9,11 +9,15 @@ sections:
   label: Retrospective
   create: all
   match: "*"
+  templates:
+  - template-with-title-subtitle-text-image-and-videolink
 - type: directory
   path: content
   label: Pages
   create: all
   match: "*"
+  templates:
+  - template-with-title-subtitle-text-image-and-videolink
 upload_dir: assets/img
 public_path: ''
 front_matter_path: ''

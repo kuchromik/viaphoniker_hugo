@@ -4,6 +4,6 @@ date: 2021-06-07
 subtitle: Viaphonikers TopTen zum AStA-Sommerfest 2021
 featured_text: 
 featured_image: viaphonikerTopTen_800.jpg
-featured_link: http://chromikoffsetdruck.de/ViaphonikerTopTen.mp4
+featured_video: http://chromikoffsetdruck.de/ViaphonikerTopTen.mp4
 
 ---
