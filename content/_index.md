@@ -5,7 +5,7 @@ subtitle: Unser Sommerkonzert vom 20. Juli
 featured_image: 
 featured_text: "Ausschnitte aus dem Konzert"
 featured_link: 
-featured_video: http://chromikoffsetdruck.de/Viaphoniker_Sommerkonzert_2022.mp4
+featured_video: http://chromikoffsetdruck.de/Viaphoniker_Sommerfest_2022.mp4
 what_next: 
 weight: "10"
 menu:
