@@ -10,8 +10,8 @@ cards:
   text: Eintragung im Vereinsregister Registernummer VR 670 Registergericht Amtsgericht
     Frankfurt (Oder)
 - title: Vorstand
-  text: 1. Vorsitzende Monique Vollbrecht / 2. Vorsitzende Lea Langosch / Kassenwärtin
-    Katharina Zeyse / Kunstbeauftrage Birgid Wintsche
+  text: 1. Vorsitzende Rosalie Baaske / 2. Vorsitzender Sebastian Gürlebeck / Kassenwärtin
+    Monique Vollbrecht / Kunstbeauftrage Birgid Wintsche
 - title: Buchung
   text: Gern übernehmen wir für Sie, auch in kleineren Besetzungen, die musikalische
     Umrahmung von Veranstaltungen. Sprechen Sie uns einfach per E-Mail an und Sie
