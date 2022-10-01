@@ -26,7 +26,7 @@ cards:
   link: ''
   linkText: ''
 - title: Du
-  text: spielst Dein Lieblingsintrument
+  text: spielst Dein Lieblingsinstrument
   image: "/img/unknown.jpg"
   link: 
   linkText: 
