@@ -20,11 +20,6 @@ cards:
   image: "/img/matheusz.jpg"
   link: ''
   linkText: ''
-- title: Oleksi
-  text: spielt Klavier
-  image: "/img/oleksi.jpg"
-  link: ''
-  linkText: ''
 - title: Du
   text: spielst Dein Lieblingsinstrument
   image: "/img/unknown.jpg"
