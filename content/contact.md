@@ -11,7 +11,7 @@ cards:
     Frankfurt (Oder)
 - title: Vorstand
   text: 1. Vorsitzende Rosalie Baaske / 2. Vorsitzender Sebastian Gürlebeck / Kassenwärtin
-    Monique Vollbrecht / Kunstbeauftrage Birgid Wintsche
+    Monique Ruhland / Kunstbeauftrage Birgid Wintsche
 - title: Buchung
   text: Gern übernehmen wir für Sie, auch in kleineren Besetzungen, die musikalische
     Umrahmung von Veranstaltungen. Sprechen Sie uns einfach per E-Mail an und Sie
