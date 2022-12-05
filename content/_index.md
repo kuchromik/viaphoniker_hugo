@@ -1,6 +1,6 @@
 ---
 title: Aktuelles
-date: 2022-10-21
+date: 2022-12-05
 subtitle:
 featured_image: streicheraquise.jpg
 featured_text: 
