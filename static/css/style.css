@@ -34,8 +34,10 @@ a,
 }
 
 #navbar {
-	background: linear-gradient(#ffdb4c, #bfa438);
+	background: linear-gradient(#B0EDED, #8DBEBE);
 }
+
+/* background: linear-gradient(#ffdb4c, #bfa438); */
 
 #sticker {
 	margin-bottom: 0rem;
