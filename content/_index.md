@@ -1,8 +1,8 @@
 ---
 title: Aktuelles
-date: 2022-12-05
+date: 2022-12-27
 subtitle:
-featured_image: streicheraquise.jpg
+featured_image: sak_01_2023.jpg
 featured_text: 
 featured_link: 
 featured_video: 
