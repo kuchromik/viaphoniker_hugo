@@ -1,6 +1,6 @@
 ---
 title: Retrospektive
-date: 2022-10-01
+date: 2023-02-03
 subtitle: 'Was zuletzt geschah:'
 weight: "50"
 menu:
