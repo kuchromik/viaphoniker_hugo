@@ -1,11 +1,11 @@
 ---
 title: Aktuelles
-date: 2023-01-29
+date: 2023-02-03
 subtitle: Ausschnitt aus dem Semesterabschlusskonzert
-featured_image: sak_01_2023_cut.jpg
-featured_text: The Greatest Showman
+featured_image: castle.jpg
+featured_text: The Lord of the dance
 featured_link: 
-featured_video: http://chromikoffsetdruck.de/TheGreatestShowman.mp4
+featured_video: http://chromikoffsetdruck.de/TheLordOfTheDance.mp4
 what_next: 
 weight: "10"
 menu:
