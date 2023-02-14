@@ -12,7 +12,7 @@ menu:
 
 #### Wann? Was? Wo?
 
-04.04. Probenbeginn des Sommersemesters,vsl. Audimax
+04.04. Probenbeginn des Sommersemesters, vsl. Audimax
 
 20.04. (16/17 Uhr) Ensembleauftritt zu Kunstprojekteinweihung Carthausplatz, FFO
 
