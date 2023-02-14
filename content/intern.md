@@ -14,7 +14,7 @@ menu:
 
 04.04. Probenbeginn des Sommersemesters, vsl. Audimax
 
-20.04. (16/17 Uhr) Ensembleauftritt zu Kunstprojekteinweihung Carthausplatz, FFO
+20.04. (16/17 Uhr) Ensembleauftritt zu Kunstprojekteinweihung, Carthausplatz
 
 21.04. (18 Uhr) Ensembleauftritt zur Vernissage von „Art an der Grenze“, FFO
 
@@ -22,11 +22,11 @@ menu:
 	
 12.05. (ca. 17 Uhr) Ensembleauftritt: Verabschiedung eines Professors, Berlin
 
-19.06. Generalprobe für „Uni meets Stadt“ Konzerthalle, FFO
+19.06. Generalprobe für „Uni meets Stadt“, Konzerthalle
 
 21.06. vsl. Ensembleauftritt: Tag der offenen Tür der Viadrina, Viadrina
 
-22.06. Konzert mit dem OFM „Uni meets Stadt“ Konzerthalle, FFO
+22.06. Konzert mit dem OFM „Uni meets Stadt“, Konzerthalle
 
 27.06. vsl. Mitgliederversammlung, FFO
 
