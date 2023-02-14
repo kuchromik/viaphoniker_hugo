@@ -19,8 +19,10 @@ menu:
 21.04. (18 Uhr) Ensembleauftritt zur Vernissage von „Art an der Grenze“, FFO
 
 21.04. bis 23.04. Probenwochenende
+
 	
 12.05. (ca. 17 Uhr) Ensembleauftritt: Verabschiedung eines Professors, Berlin
+
 
 19.06. Generalprobe für „Uni meets Stadt“, Konzerthalle
 
