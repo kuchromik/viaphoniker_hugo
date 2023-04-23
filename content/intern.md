@@ -12,11 +12,6 @@ menu:
 
 #### Wann? Was? Wo?
 
-04.04. Probenbeginn des Sommersemesters, vsl. Audimax
-
-20.04. (16/17 Uhr) Ensembleauftritt zu Kunstprojekteinweihung, Carthausplatz
-
-21.04. bis 23.04. Probenwochenende, JHB am Köriser See
 	
 12.05. (ca. 17 Uhr) Ensembleauftritt: Verabschiedung eines Professors, Berlin
 
