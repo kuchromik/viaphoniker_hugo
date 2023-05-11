@@ -1,11 +1,11 @@
 ---
 title: Aktuelles
-date: 2023-02-03
-subtitle: Ausschnitt aus dem Semesterabschlusskonzert
-featured_image: castle.jpg
-featured_text: THE LORD OF THE DANCE
+date: 2023-05-11
+subtitle:
+featured_image: UMS_2023_web.jpg
+featured_text: Wir freuen uns auf Euch!
 featured_link: 
-featured_video: http://chromikoffsetdruck.de/TheLordOfTheDance.mp4
+featured_video:
 what_next: 
 weight: "10"
 menu:
