@@ -12,10 +12,8 @@ menu:
 
 #### Wann? Was? Wo?
 
-	
-12.05. (ca. 17 Uhr) Ensembleauftritt: Verabschiedung eines Professors, Berlin
 
-18.06. (10-16 Uhr) Sonderprobe zum UMS, Konzerthalle
+18.06. (10-16 Uhr) Sonderprobe zu „Uni meets Stadt“, Konzerthalle
 
 19.06. Generalprobe für „Uni meets Stadt“, Konzerthalle
 
