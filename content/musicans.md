@@ -8,7 +8,7 @@ cards:
   image: "/img/monique.jpg"
 - title: Robert
   text: spielt Klavier und dirigiert
-  image: "/img/robert.jpg"
+  image: "/img/robert_2023.jpg"
 - title: Lea
   text: spielt Violine und Trompete
   image: "/img/lea.jpg"
