@@ -1,6 +1,6 @@
 ---
 title: ViaIntern
-date: 2023-03-19
+date: 2023-03-10
 weight: "70"
 menu:
   main:
@@ -13,5 +13,5 @@ menu:
 #### Wann? Was? Wo?
 
 
-Aktuell keine Termine - Schöne Sommerferien!
+Probenstart für das Wintersemester 2023/2024 ist der 10.Oktober um 18:30 Uhr im AUDIMAX
 
