@@ -1,6 +1,6 @@
 ---
 title: ViaIntern
-date: 2023-10-03
+date: 2023-11-25
 weight: "70"
 menu:
   main:
@@ -13,9 +13,8 @@ menu:
 #### Wann? Was? Wo?
 
 
-Probenstart für das Wintersemester 2023/2024 ist der 10. Oktober um 18:30 Uhr im AUDIMAX
-
-UNI-Initiativenmarkt am 18. Oktober 2023 von 10:30 Uhr bis 14:00 Uhr 
+Unsere nächste Probe ist der 7. November um 18:30 Uhr im AUDIMAX
+ 
 
 Probenwochenende am 25./26. November 2023
 
