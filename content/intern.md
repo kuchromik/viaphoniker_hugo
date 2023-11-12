@@ -1,6 +1,6 @@
 ---
 title: ViaIntern
-date: 2023-10-25
+date: 2023-11-12
 weight: "70"
 menu:
   main:
@@ -11,9 +11,6 @@ menu:
 # Termine
 
 #### Wann? Was? Wo?
-
-
-Unsere nächste Probe ist der 7. November um 18:30 Uhr im AUDIMAX
  
 
 Probenwochenende am 25./26. November 2023
