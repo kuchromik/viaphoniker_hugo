@@ -1,6 +1,6 @@
 ---
 title: ViaIntern
-date: 2023-11-12
+date: 2023-11-26
 weight: "70"
 menu:
   main:
@@ -13,5 +13,5 @@ menu:
 #### Wann? Was? Wo?
  
 
-Probenwochenende am 25./26. November 2023
+Aktuell keine weiteren Termine
 
