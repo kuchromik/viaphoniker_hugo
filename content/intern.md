@@ -1,6 +1,6 @@
 ---
 title: ViaIntern
-date: 2023-11-26
+date: 2023-12-05
 weight: "70"
 menu:
   main:
@@ -13,5 +13,5 @@ menu:
 #### Wann? Was? Wo?
  
 
-Aktuell keine weiteren Termine
+19.12.2023 um 20.30 Uhr Außerordentlichen Mitgliederversammlung im Audimax
 
