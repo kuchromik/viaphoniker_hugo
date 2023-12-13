@@ -21,3 +21,7 @@ menu:
 25.01.2024 Semesterabschlusskonzert im Logensaal: Aufbau und Anspielprobe 16 Uhr, Konzertbeginn 19 Uhr<br />
 26.01.2024 Semesterabschlusskonzert im Logensaal: Aufbau und Anspielprobe 17:30 Uhr, Konzertbeginn 19 Uhr<br />
 
+08.06.2024 Ensembleauftritt von 16 Uhr bis 17 Uhr im Rahmen der Kurkonzerte in Bad Saarow, im Garten des Scharwenkahauses<br />
+
+--Weitere Termine für das Sommersemester folgen.--
+
