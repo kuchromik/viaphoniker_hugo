@@ -16,7 +16,7 @@ menu:
 19.12.2023 um 20:30 Uhr Außerordentliche Mitgliederversammlung im Audimax in weihnachtlicher Atmosphäre <br />
 26.12.2023 keine Probe<br />
 
-02.01.2024 keine Probe<br />
+02.01.2024 evtl. keine Probe, wird noch abgesprochen<br />
 20.01.2024 Sonderprobe im Audimax von 10 Uhr bis 18 Uhr<br />
 23.01.2024 Generalprobe im Logensaal um 18:30 Uhr<br />
 25.01.2024 Semesterabschlusskonzert im Logensaal: Aufbau und Anspielprobe 16 Uhr, Konzertbeginn 19 Uhr<br />
