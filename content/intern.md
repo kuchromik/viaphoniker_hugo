@@ -13,8 +13,6 @@ menu:
 #### Wann? Was? Wo?
  
 
-26.12.2023 keine Probe<br />
-
 02.01.2024 erste Probe im neuen Jahr (18:30 Uhr, Audimax) <br />
 20.01.2024 Sonderprobe im Audimax von 10 Uhr bis 18 Uhr<br />
 23.01.2024 Generalprobe im Logensaal um 18:30 Uhr<br />
@@ -25,5 +23,5 @@ menu:
 
 08.06.2024 Ensembleauftritt von 16 Uhr bis 17 Uhr im Rahmen der Kurkonzerte in Bad Saarow, im Garten des Scharwenkahauses<br />
 
---Weitere Termine für das Sommersemester folgen.--
+--Weitere Termine für das Sommersemester folgen--
 
