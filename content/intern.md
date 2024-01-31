@@ -12,7 +12,9 @@ menu:
 
 #### Wann? Was? Wo?
  
-30.01.2024 Mitgliederversammlung (18:30 Uhr, Audimax): Auswertung Konzerte, Ausklang des Semesters - danach Probenpause bis Anfang des Sommersemesters<br />
+02.04.2024 Probenbeginn für das Sommersemester, vsl. im Audimax
+
+03.05. bis 05.05.2024 Probenwochenende, Ort folgt
 
 08.06.2024 Ensembleauftritt von 16 Uhr bis 17 Uhr im Rahmen der Kurkonzerte in Bad Saarow, im Garten des Scharwenkahauses<br />
 
