@@ -18,5 +18,7 @@ menu:
 
 08.06.2024 Ensembleauftritt von 16 Uhr bis 17 Uhr im Rahmen der Kurkonzerte in Bad Saarow, im Garten des Scharwenkahauses<br />
 
+20.06.2024 Uni meets Stadt, 19 Uhr im Audimax, nähere Infos folgen
+
 --Weitere Termine für das Sommersemester folgen--
 
