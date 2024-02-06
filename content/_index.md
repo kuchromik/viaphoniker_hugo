@@ -1,11 +1,11 @@
 ---
-title: Aktuelles
-date: 2024-01-03
-subtitle: 
-featured_image: SAK_01_2024_800.jpg
-featured_text: Unsere Konzerte sind eine wunderbare Gelegenheit, um gemeinsam mit Familie, Freunden und Musikliebhabern aus der Region eine inspirierende und unterhaltsame Zeit zu verbringen. Seid herzlich willkommen!
+title: Konzert verpasst?
+date: 2024-02-06
+subtitle: Ausschnitte aus unserem Konzert vom 25.Januar 2024
+featured_image: 
+featured_text: Ein riesiges Dankeschön an unsere Gäste und alle, die geholfen haben
 featured_link: 
-featured_video:
+featured_video: http://chromikoffsetdruck.de/SAK_2024_1.mp4
 what_next: 
 weight: "10"
 menu:
