@@ -16,9 +16,11 @@ menu:
 
 03.05. bis 05.05.2024 Probenwochenende, Ort folgt
 
-08.06.2024 Ensembleauftritt von 16 Uhr bis 17 Uhr im Rahmen der Kurkonzerte in Bad Saarow, im Garten des Scharwenkahauses<br />
+08.06.2024 Ensembleauftritt von 16 Uhr bis ca. 17 Uhr im Rahmen der Kurkonzerte in Bad Saarow, im Garten des Scharwenkahauses<br />
 
-20.06.2024 Uni meets Stadt, 19 Uhr im Audimax, nähere Infos folgen
+20.06.2024 Uni meets Stadt Konzert, 19 Uhr im Audimax, nähere Infos folgen
 
---Weitere Termine für das Sommersemester folgen--
+25.06.2024 Mitgliederversammlung, 18:30 Uhr vsl. im Audimax - danach Semesterausklang und Probenpause bis vsl. Oktober
+
+-- Weitere Termine folgen --
 
