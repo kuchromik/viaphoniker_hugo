@@ -12,9 +12,9 @@ menu:
 
 #### Wann? Was? Wo?
  
-02.04.2024 Probenbeginn für das Sommersemester, vsl. im Audimax
+02.04.2024 Probenbeginn für das Sommersemester im Audimax
 
-03.05. bis 05.05.2024 Probenwochenende, Ort folgt
+03.05. bis 05.05.2024 Probenwochenende, JHB Bremsdorf
 
 08.06.2024 Ensembleauftritt von 16 Uhr bis ca. 17 Uhr im Rahmen der Kurkonzerte in Bad Saarow, im Garten des Scharwenkahauses<br />
 
