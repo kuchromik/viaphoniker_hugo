@@ -44,7 +44,7 @@
     <div class="retrobox">
         {{ $imagePath := printf "/img/%s" .Params.featured_image }}
         {{ $image := resources.Get $imagePath }}
-        <video controls poster="{{ ($image.Resize "800x1132 Lanczos").RelPermalink }}" src="{{ $featured_video }}"></video>
+        <video controls poster="{{ ($image.Resize "800x450 Lanczos").RelPermalink }}" src="{{ $featured_video }}"></video>
     </div>
     {{ else if ( .Params.featured_video ) }}
     <div class="retrobox">
@@ -56,7 +56,7 @@
     <div class="retrobox">
         {{ $imagePath := printf "/img/%s" .Params.featured_image }}
         {{ $image := resources.Get $imagePath }}
-        <img src="{{ ($image.Resize "800x1132 Lanczos").RelPermalink }}"/>
+        <img src="{{ ($image.Resize "800x450 Lanczos").RelPermalink }}"/>
     </div>
     {{ end }}
     {{ if ( .Params.featured_text ) }}

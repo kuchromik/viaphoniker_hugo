@@ -1,11 +1,11 @@
 ---
-title: Konzert verpasst?
-date: 2024-02-06
-subtitle: Ausschnitte aus unserem Konzert vom 25.Januar 2024
-featured_image: 
-featured_text: Ein riesiges Dankeschön an unsere Gäste und alle, die geholfen haben
+title: Comming Up ...
+date: 2024-04-24
+subtitle: UniMeetsStadt 2024
+featured_image: UMS_2024_preview.png
+featured_text: So musikalisch fängt der Sommer an.
 featured_link: 
-featured_video: http://chromikoffsetdruck.de/SAK_2024_1.mp4
+featured_video: 
 what_next: 
 weight: "10"
 menu:
