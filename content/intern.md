@@ -1,6 +1,6 @@
 ---
 title: ViaIntern
-date: 2024-01-21
+date: 2024-05-05
 weight: "70"
 menu:
   main:
@@ -11,8 +11,6 @@ menu:
 # Termine
 
 #### Wann? Was? Wo?
-
-03.05. bis 05.05.2024 Probenwochenende, JHB Bremsdorf
 
 08.06.2024 Ensembleauftritt um 16 Uhr im Rahmen der Kurkonzerte in Bad Saarow, im Garten des Scharwenkahauses<br />
 
