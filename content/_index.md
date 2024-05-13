@@ -1,6 +1,6 @@
 ---
 title: Comming Up ...
-date: 2024-04-24
+date: 2024-05-13
 subtitle: UniMeetsStadt 2024
 featured_image: UMS_2024_preview.png
 featured_text: Wir freuen uns auf Euch!
