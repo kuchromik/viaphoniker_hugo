@@ -1,6 +1,6 @@
 ---
 title: ViaIntern
-date: 2024-05-08
+date: 2024-06-10
 weight: "70"
 menu:
   main:
@@ -12,9 +12,8 @@ menu:
 
 #### Wann? Was? Wo?
 
-08.06.2024 Ensembleauftritt um 16 Uhr im Rahmen der Kurkonzerte in Bad Saarow, im Garten des Scharwenkahauses<br />
+15.06.2024 Sonderprobe 10-16 Uhr in der Konzerthalle
 
-15.06.2024 Sonderprobe 10-16 Uhr in der Konzerthalle<br />
 18.06.2024 Generalprobe 18:30 Uhr im Audimax
 
 20.06.2024 Uni meets Stadt Konzert, 19 Uhr im Audimax >> ca. 15 Uhr Aufbau, 17 Uhr Anspielprobe
