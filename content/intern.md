@@ -18,7 +18,7 @@ menu:
 
 20.06.2024 Uni meets Stadt Konzert, 19 Uhr im Audimax >> ca. 15 Uhr Aufbau, 17 Uhr Anspielprobe
 
-25.06.2024 Mitgliederversammlung, 18:30 Uhr vsl. im Audimax - danach Semesterausklang und Probenpause bis vsl. Oktober
+25.06.2024 Mitgliederversammlung, 18:30 Uhr im Audimax - danach Semesterausklang und Probenpause bis vsl. Oktober
 
 -- Weitere Termine folgen --
 
