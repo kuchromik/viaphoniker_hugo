@@ -1,7 +1,7 @@
 ---
 title: Uni Meets Stadt 2024
 date: 2024-06-22
-subtitle: Ausschnitte aus unserem Konzert mit dem Frankfurter Musikfreunden
+subtitle: Ausschnitte aus unserem Konzert mit den Frankfurter Musikfreunden
 featured_image: UMS_2024.png
 featured_text:
 featured_link: 
