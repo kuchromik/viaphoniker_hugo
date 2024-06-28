@@ -1,6 +1,6 @@
 ---
 title: Kontakt & Buchung
-date: 2022-06-28
+date: 2024-06-28
 weight: "60"
 cards:
 - title: Impressum (Angaben gem. § 5 TMG)
