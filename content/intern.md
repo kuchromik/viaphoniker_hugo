@@ -12,7 +12,7 @@ menu:
 
 #### Wann? Was? Wo?
 
-25.06.2024 Mitgliederversammlung, 18:30 Uhr im Audimax - danach Semesterausklang und Probenpause bis vsl. Oktober
+Probenpause bis vsl. Oktober
 
 -- Weitere Termine folgen --
 
