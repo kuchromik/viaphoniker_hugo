@@ -10,9 +10,9 @@ cards:
   text: Eintragung im Vereinsregister Registernummer VR 670 Registergericht Amtsgericht
     Frankfurt (Oder)
 - title: Vorstand
-  text: 1. Vorsitzende Rosalie Baaske <br>
-    2. Vorsitzende Loisa Paulsen <br>
-    Kassenwart Simon Trepte <br>
+  text: 1. Vorsitzende Rosalie Baaske <br/>
+    2. Vorsitzende Loisa Paulsen <br/>
+    Kassenwart Simon Trepte <br/>
     Kunstbeauftrage Lea Langosch
 - title: Buchung
   text: Gern übernehmen wir für Sie, auch in kleineren Besetzungen, die musikalische
