@@ -1,6 +1,6 @@
 ---
 title: Kontakt & Buchung
-date: 2022-09-06
+date: 2022-06-28
 weight: "60"
 cards:
 - title: Impressum (Angaben gem. § 5 TMG)
@@ -10,8 +10,8 @@ cards:
   text: Eintragung im Vereinsregister Registernummer VR 670 Registergericht Amtsgericht
     Frankfurt (Oder)
 - title: Vorstand
-  text: 1. Vorsitzende Rosalie Baaske / 2. Vorsitzender Sebastian Gürlebeck / Kassenwärtin
-    Monique Ruhland / Kunstbeauftrage Birgid Wintsche
+  text: 1. Vorsitzende Rosalie Baaske / 2. Vorsitzende Loisa Paulsen / Kassenwart
+    Simon Trepte / Kunstbeauftrage Lea Langosch
 - title: Buchung
   text: Gern übernehmen wir für Sie, auch in kleineren Besetzungen, die musikalische
     Umrahmung von Veranstaltungen. Sprechen Sie uns einfach per E-Mail an und Sie
