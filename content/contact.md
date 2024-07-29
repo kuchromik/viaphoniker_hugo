@@ -16,9 +16,8 @@ cards:
         Kunstbeauftrage Lea Langosch
 - title: Buchung
   text: Gern übernehmen wir für Sie, auch in kleineren Besetzungen, die musikalische
-    Umrahmung von Veranstaltungen. Sprechen Sie uns einfach per E-Mail an und Sie
-    bekommen kurzfristig eine Rückinfo von uns. Die Mail-Adresse finden Sie im Footer
-    links.
+    Umrahmung von Veranstaltungen. Sprechen Sie uns einfach per E-Mail (info@viaphoniker.de) an und Sie
+    bekommen kurzfristig eine Rückinfo von uns.
 menu:
   main:
     weight: 7
