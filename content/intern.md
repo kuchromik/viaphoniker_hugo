@@ -12,7 +12,8 @@ menu:
 
 #### Wann? Was? Wo?
 
-Probenpause bis vsl. Oktober
+Probenstart voraussichtlich Anfang Oktober
+16.10. Initiativenmarkt der Viadrina
 
 -- Weitere Termine folgen --
 
