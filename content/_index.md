@@ -1,11 +1,11 @@
 ---
-title: Uni Meets Stadt 2024
-date: 2024-06-22
-subtitle: Ausschnitte aus unserem Konzert mit den Frankfurter Musikfreunden
-featured_image: UMS_2024.png
+title: Probenstart Wintersemester
+date: 2024-09-18
+subtitle: Seid willkommen zur ersten Probe am 1. Oktober um 18:30 Uhr im Audimax 
+featured_image: winter.jpg
 featured_text:
 featured_link: 
-featured_video: http://chromikoffsetdruck.de/UMS_2024.mp4
+featured_video: 
 what_next: 
 weight: "10"
 menu:
