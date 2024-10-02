@@ -1,6 +1,6 @@
 ---
 title: Probenstart Wintersemester
-date: 2024-09-18
+date: 2024-10-02
 subtitle: Seid willkommen zur zweiten Probe am 8. Oktober um 18:30 Uhr im Audimax 
 featured_image: winter.jpg
 featured_text:
