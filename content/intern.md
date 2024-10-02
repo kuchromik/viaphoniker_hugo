@@ -12,11 +12,10 @@ menu:
 
 #### Wann? Was? Wo?
 
-01.10. Probenstart Wintersemester: 18:30 Uhr im Audimax
 
 16.10. von 11-14 Uhr Initiativenmarkt der Viadrina
 
-22.-24.11. Probenwochenende (vorläufiger Termin)
+22.-24.11. Probenwochenende in Bremsdorf
 
 -- Weitere Termine folgen --
 
