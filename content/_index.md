@@ -1,8 +1,8 @@
 ---
-title: Probenstart Wintersemester
-date: 2024-10-02
-subtitle: Seid willkommen zur zweiten Probe am 8. Oktober um 18:30 Uhr im Audimax 
-featured_image: winter.jpg
+title: Are you up for making music?
+date: 2024-10-09
+subtitle: Welcome to the next rehearsal on 15 October at 18:30 in the Audimax 
+featured_image: rehersal_ai.jpg
 featured_text:
 featured_link: 
 featured_video: 

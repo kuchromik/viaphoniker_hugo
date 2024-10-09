@@ -41,7 +41,7 @@
     <div class="retrobox">
         {{ $imagePath := printf "/img/%s" .Params.featured_image }}
         {{ $image := resources.Get $imagePath }}
-        <img class="fade-in" src="{{ ($image.Resize "800x450 Lanczos").RelPermalink }}"/>
+        <img class="fade-in" src="{{ ($image.Resize "500x500 Lanczos").RelPermalink }}"/>
     </div>
     {{ end }}
     {{ if ( .Params.featured_text ) }}
