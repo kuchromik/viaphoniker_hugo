@@ -12,9 +12,6 @@ menu:
 
 #### Wann? Was? Wo?
 
-
-16.10. von 11-14 Uhr Initiativenmarkt der Viadrina
-
 22.-24.11. Probenwochenende in Bremsdorf
 
 -- Weitere Termine folgen --
