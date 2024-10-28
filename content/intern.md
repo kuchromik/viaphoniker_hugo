@@ -16,8 +16,11 @@ menu:
 <br />
 <br />
 25.01.2025 Hauptprobe im Logensaal
+<br />
 28.01.2025 Generalprobe im Audimax, 18:30-21:30 Uhr
+<br />
 30.01.2025 Semesterabschlusskonzert im Logensaal, Beginn 19 Uhr
+<br />
 31.01.2025 Semesterabschlusskonzert im Logensaal, Beginn 19 Uhr
 <br />
 <br />
