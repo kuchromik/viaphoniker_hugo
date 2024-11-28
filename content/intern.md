@@ -12,9 +12,6 @@ menu:
 
 #### Wann? Was? Wo?
 
-22.-24.11.2024 Probenwochenende in Bremsdorf
-<br />
-<br />
 25.01.2025 Hauptprobe im Logensaal
 <br />
 28.01.2025 Generalprobe im Audimax, 18:30-21:30 Uhr
