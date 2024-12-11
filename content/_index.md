@@ -1,7 +1,7 @@
 ---
 title: Are you up for making music?
-date: 2024-12-05
-subtitle: Welcome to the next rehearsal on 10. December at 18:30 in the Audimax 
+date: 2024-12-11
+subtitle: Welcome to this years last rehearsal on 17. December at 18:30 in the Audimax 
 featured_image: rehersal_ai.jpg
 featured_text:
 featured_link: 
