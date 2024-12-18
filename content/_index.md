@@ -1,8 +1,8 @@
 ---
-title: Are you up for making music?
-date: 2024-12-11
-subtitle: Welcome to this years last rehearsal on 17. December at 18:30 in the Audimax 
-featured_image: rehersal_ai.jpg
+title: Merry Christmas ...
+date: 2024-12-18
+subtitle: ... and a Happy New Year!
+featured_image: viaphoniker_2024.jpg
 featured_text:
 featured_link: 
 featured_video: 
