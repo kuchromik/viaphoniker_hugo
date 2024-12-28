@@ -42,7 +42,7 @@
     <hr>
 </main>
 
-<small class="text-muted">Letzte Aktualisierung {{ .Date.Format "2. Januar 2006" }}</small>
+<small class="text-muted">Letzte Aktualisierung {{ .Lastmod | time.Format ":date_medium" }}</small>
 
 
 {{ end }}
