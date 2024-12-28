@@ -66,8 +66,8 @@
     {{ end }}
     <hr>
 </main>
-{{ with .GitInfo }}
-    <small class="text-muted">Letzte Aktualisierung {{ .AuthorDate.Format "2. Januar 2006" }}</small>
-{{ end }}
+
+<small class="text-muted">Letzte Aktualisierung {{ .Lastmod.Format "2. Januar 2006" }}</small>
+
 
 {{ end }}

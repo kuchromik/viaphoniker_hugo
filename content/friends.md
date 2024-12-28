@@ -1,6 +1,7 @@
 ---
 title: Freunde und Förderer
 date: 2022-04-12
+lastmod: 2022-04-12
 weight: "50"
 cards:
 - title: Europa-Universität

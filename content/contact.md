@@ -1,6 +1,7 @@
 ---
 title: Kontakt & Buchung
 date: 2024-06-28
+lastmod: 2024-06-28
 weight: "60"
 cards:
 - title: Impressum (Angaben gem. § 5 TMG)

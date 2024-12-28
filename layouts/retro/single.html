@@ -41,8 +41,8 @@
     <a class="btn btn-secondary btn-sm" href="/retro" role="button">Zurück zur Retroliste</a>
     <hr>
 </main>
-{{ with .GitInfo }}
-    <small class="text-muted">Letzte Aktualisierung {{ .AuthorDate.Format "2. Januar 2006" }}</small>
-{{ end }}
+
+<small class="text-muted">Letzte Aktualisierung {{ .Lastmod.Format "2. Januar 2006" }}</small>
+
 
 {{ end }}
