@@ -1,8 +1,8 @@
 ---
-title: Merry Christmas ...
-date: 2024-12-18
-subtitle: ... and a Happy New Year!
-featured_image: viaphoniker_2024.jpg
+title: Auf geht´s ins Neue Jahr
+date: 2024-12-28
+subtitle: ... erste Probe am 7. Januar 2025
+featured_image: viaphoniker_2025.jpg
 featured_text:
 featured_link: 
 featured_video: 

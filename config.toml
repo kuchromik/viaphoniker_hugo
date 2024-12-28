@@ -1,5 +1,6 @@
 baseURL = "http://viaphoniker.eu"
 languageCode = "de-de"
+enableGitInfo = true
 title = "ViaphonikerInnen"
 [markup.goldmark.renderer]
 unsafe = true

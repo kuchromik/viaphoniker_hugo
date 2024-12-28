@@ -57,7 +57,9 @@
     {{ end }}
     <hr>
 </main>
-<small class="text-muted">Letzte Aktualisierung {{ $update.Format "02.01.2006" }}</small>
+{{ with .GitInfo }}
+    <small class="text-muted">Letzte Aktualisierung {{ .AuthorDate.Format "2. Januar 2006" }}</small>
+{{ end }}
 
 {{ end }}
 
