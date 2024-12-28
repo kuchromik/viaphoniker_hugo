@@ -8,7 +8,7 @@ unsafe = true
 custom_css = ["css/menu.css", "css/style.css"]
 [frontmatter]
 date = ["date", "publishDate", "lastmod"]
-lastmod = [":git", "lastmod", "date", "publishDate"]
+lastmod = ["lastmod", ":git", "date", "publishDate"]
 publishDate = ["publishDate", "date"]
 expiryDate = ["expiryDate"]
 
