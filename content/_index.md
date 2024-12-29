@@ -2,7 +2,7 @@
 title: Auf geht´s ins Neue Jahr
 date: 2024-12-28
 lastmod: 2024-12-28
-subtitle: ... erste Probe am 7. Januar 2025
+subtitle: Willkommen zur ersten Probe am 7. Januar 2025
 featured_image: viaphoniker_2025.jpg
 featured_text:
 featured_link: 
