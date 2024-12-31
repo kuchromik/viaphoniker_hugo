@@ -1,5 +1,5 @@
 ---
-title: Auf geht´s ins Neue Jahr
+title: Auf geht es ins Neue Jahr
 date: 2024-12-28
 lastmod: 2024-12-28
 subtitle: Willkommen zur ersten Probe am 7. Januar 2025
