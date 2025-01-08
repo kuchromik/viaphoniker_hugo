@@ -1,10 +1,10 @@
 ---
-title: Auf geht es ins Neue Jahr
+title: Wir freuen uns auf Euch!
 date: 2024-12-28
 lastmod: 2024-12-28
-subtitle: Willkommen zur ersten Probe am 7. Januar 2025
-featured_image: viaphoniker_2025.jpg
-featured_text:
+subtitle: 
+featured_image: SAK_01_2025_600.webp
+featured_text: 
 featured_link: 
 featured_video: 
 what_next: 
