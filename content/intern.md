@@ -1,7 +1,7 @@
 ---
 title: ViaIntern
-date: 2024-12-11
-lastmod: 2024-12-28
+date: 2025-01-29
+lastmod: 2025-01-29
 weight: "70"
 menu:
   main:
@@ -13,13 +13,11 @@ menu:
 
 #### Wann? Was? Wo?
 
-25.01.2025 Hauptprobe im Logensaal, 10-16 Uhr
-<br />
-28.01.2025 Generalprobe im Audimax, 18:30-21:30 Uhr
-<br />
 31.01.2025 Semesterabschlusskonzert im Logensaal, Anspielprobe 16:30 Uhr, Beginn 19 Uhr
 <br />
 04.02.2025 Mitgliederversammlung um 18:30 Uhr im Audimax
+<br />
+Danach Probenpause bis voraussichtlich April
 
 -- Weitere Termine folgen --
 
