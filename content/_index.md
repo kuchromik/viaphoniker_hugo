@@ -1,12 +1,12 @@
 ---
-title: Wir freuen uns auf Euch!
-date: 2024-12-28
-lastmod: 2024-12-28
+title: Dankeschön!
+date: 2025-02-05
+lastmod: 2025-02-05
 subtitle: 
-featured_image: SAK_01_2025_600.webp
-featured_text: 
+featured_image: SAK_2025.png
+featured_text: Es war ein wundervolles Konzert
 featured_link: 
-featured_video: 
+featured_video: http://chromikoffsetdruck.de/SAK_2025.mp4
 weight: "10"
 menu:
   main:
