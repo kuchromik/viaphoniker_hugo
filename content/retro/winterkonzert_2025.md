@@ -1,5 +1,5 @@
 ---
-title: SAK 1/24
+title: SAK 1/25
 date: 2025-02-05T00:00:00.000+02:00
 lastmod: 2024-02-25
 subtitle: Semesterabschlusskonzert vom 31. Januar 2025
