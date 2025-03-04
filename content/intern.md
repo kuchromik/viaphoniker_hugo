@@ -13,8 +13,8 @@ menu:
 
 #### Wann? Was? Wo?
 
-02.04.2025 Probenstart für das Sommersemester
-09.04.2025 Initiativenmarkt der Viadrina (betreuter Info-Stand der Viaphoniker)
+02.04.2025 Probenstart für das Sommersemester <br />
+09.04.2025 Initiativenmarkt der Viadrina von 10:45 Uhr bis 14 Uhr (betreuter Info-Stand der Viaphoniker)
 <br />
 <br />
 03.07.2025 Uni meets Stadt Konzert (in Planung)
