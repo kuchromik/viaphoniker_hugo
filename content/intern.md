@@ -13,9 +13,8 @@ menu:
 
 #### Wann? Was? Wo?
 
-04.02.2025 Mitgliederversammlung um 18:30 Uhr im Audimax
-<br />
-Danach Probenpause bis voraussichtlich April
+02.04.2025 Probenstart für das Sommersemester
+09.04.2025 Initiativenmarkt der Viadrina (betreuter Info-Stand der Viaphoniker)
 <br />
 <br />
 03.07.2025 Uni meets Stadt Konzert (in Planung)
