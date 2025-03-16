@@ -13,7 +13,7 @@ menu:
 
 #### Wann? Was? Wo?
 
-02.04.2025 Probenstart für das Sommersemester <br />
+01.04.2025 um 18:30 Uhr Probenstart für das Sommersemester, vsl. im Audimax <br />
 09.04.2025 Initiativenmarkt der Viadrina von 10:45 Uhr bis 14 Uhr (betreuter Info-Stand der Viaphoniker)
 <br />
 <br />
