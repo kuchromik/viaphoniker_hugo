@@ -1,12 +1,12 @@
 ---
-title: Dankeschön!
-date: 2025-02-05
-lastmod: 2025-02-05
+title: It's spring again
+date: 2025-03-22
+lastmod: 2025-03-22
 subtitle: 
-featured_image: SAK_2025.png
-featured_text: Es war ein wundervolles Konzert
+featured_image: spring_2025.jpg
+featured_text: Our first rehearsal starts on 1 April at 6:30 PM in the Audimax. You are welcome!
 featured_link: 
-featured_video: http://chromikoffsetdruck.de/SAK_2025.mp4
+featured_video: 
 weight: "10"
 menu:
   main:
