@@ -13,7 +13,7 @@ menu:
 
 #### Wann? Was? Wo?
 
-09.04.2025 Initiativenmarkt der Viadrina von 10:45 Uhr bis 14 Uhr (betreuter Info-Stand der Viaphoniker)
+09.04.2025 Initiativenmarkt der Viadrina von 10:45 Uhr bis 14 Uhr (betreuter Info-Stand der Viaphoniker) <br />
 17.05.2025 Sonderprobe von 10-16 Uhr in der Konzerthalle (OPR)
 <br />
 <br />
