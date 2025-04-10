@@ -13,11 +13,11 @@ menu:
 
 #### Wann? Was? Wo?
 
-09.04.2025 Initiativenmarkt der Viadrina von 10:45 Uhr bis 14 Uhr (betreuter Info-Stand der Viaphoniker) <br />
 17.05.2025 Sonderprobe von 10-16 Uhr in der Konzerthalle (OPR)
 <br />
 <br />
-03.07.2025 Uni meets Stadt Konzert um 19 Uhr mit dem OFM in der Konzerthalle
+03.07.2025 Uni meets Stadt Konzert um 19 Uhr mit dem OFM in der Konzerthalle<br />
+08.07.2025 (voraussichtlich) Mitgliederversammlung im Audimax um 18:30 Uhr
 
 -- Weitere Termine folgen. --
 
