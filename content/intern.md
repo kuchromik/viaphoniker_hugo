@@ -13,6 +13,7 @@ menu:
 
 #### Wann? Was? Wo?
 
+Bitte zusätzlichen Probenplan mit OFM beachten!<br />
 17.05.2025 Sonderprobe von 10-16 Uhr in der Konzerthalle (OPR)
 <br />
 <br />
