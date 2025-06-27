@@ -1,7 +1,7 @@
 ---
 title: ViaIntern
 date: 2025-01-29
-lastmod: 2025-04-08
+lastmod: 2025-06-27
 weight: "70"
 menu:
   main:
@@ -15,8 +15,8 @@ menu:
 
 Bitte zusätzlichen Probenplan mit OFM beachten!<br />
 <br />
-03.07.2025 Uni meets Stadt Konzert um 19 Uhr mit dem OFM in der Konzerthalle<br />
-08.07.2025 (voraussichtlich) Mitgliederversammlung im Audimax um 18:30 Uhr
+03.07.2025 Uni meets Stadt Konzert um 19 Uhr mit dem OFM in der Konzerthalle, Anspielprobe 17 Uhr<br />
+08.07.2025 Mitgliederversammlung im Audimax um 18:30 Uhr
 
 -- Weitere Termine folgen. --
 
