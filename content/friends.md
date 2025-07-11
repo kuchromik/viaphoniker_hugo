@@ -26,6 +26,6 @@ cards:
   linkText: zu Chromik
 menu:
   main:
-    weight: 6
+    weight: 7
 
 ---

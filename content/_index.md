@@ -1,11 +1,11 @@
 ---
-title: Uni meets Stadt
+title: Aktuelles
 date: 2025-06-16
 lastmod: 2025-06-16
 subtitle: 
-featured_image: UMS_2025.png
-featured_text: Grab your friends – it’s concert time!
-featured_link: 
+featured_image: conductorWanted.png
+featured_text: Für weitere Infos bitte das Bild anklicken
+featured_link: conductor
 featured_video: 
 weight: "10"
 menu:

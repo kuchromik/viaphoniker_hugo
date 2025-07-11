@@ -9,6 +9,6 @@ featured_video: http://chromikoffsetdruck.de/proben.mp4
 weight: "20"
 menu:
   main:
-    weight: 3
+    weight: 4
 
 ---

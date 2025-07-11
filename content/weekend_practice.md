@@ -11,6 +11,6 @@ featured_video:
 weight: "30"
 menu:
   main:
-    weight: 4
+    weight: 5
 
 ---

@@ -6,6 +6,6 @@ subtitle: 'Was zuletzt geschah:'
 weight: "50"
 menu:
   main:
-    weight: 2
+    weight: 3
 
 ---

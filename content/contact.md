@@ -21,6 +21,6 @@ cards:
     bekommen kurzfristig eine Rückinfo von uns.
 menu:
   main:
-    weight: 7
+    weight: 8
 
 ---
