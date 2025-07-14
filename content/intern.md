@@ -16,4 +16,4 @@ menu:
 <br />
 Sommerprobenpause bis voraussichtlich Oktober - Infos zum Probenstart im Wintersemester folgen
 <br />
-**Habt einen schönen Sommer**
+Habt einen schönen Sommer
