@@ -39,5 +39,5 @@ Dann schreib uns einfach eine kurze **E-Mail** mit einigen Infos zu dir und dein
 
 [info(at)viaphoniker.de](mailto:info(at)viaphoniker.de)
 
-Wir freuen uns darauf, dich kennenzulernen!  
+Wir freuen uns darauf, von dir zu hören!  
 Selbstverständlich begrüßen wir auch ein **Kennenlernen bei einem Probedirigat**.
