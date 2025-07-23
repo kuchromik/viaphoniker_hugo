@@ -37,7 +37,7 @@ Unser Repertoire? Ein **vielseitiger Mix aus Klassik, Filmmusik und mehr**!
 #### Klingt interessant?
 Dann schreib uns einfach eine kurze **E-Mail** mit einigen Infos zu dir und deinem **musikalischen Hintergrund** an:
 
-[info@viaphoniker.de](mailto:info(at)viaphoniker.de)
+[info(at)viaphoniker.de](mailto:info(at)viaphoniker.de)
 
 Wir freuen uns darauf, dich kennenzulernen!  
 Selbstverständlich begrüßen wir auch ein **Kennenlernen bei einem Probedirigat**.
