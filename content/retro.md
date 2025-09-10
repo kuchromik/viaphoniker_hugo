@@ -2,7 +2,7 @@
 title: Retrospektive
 date: 2025-09-01
 lastmod: 2025-09-01
-draft: true
+draft: false
 subtitle: 
 weight: "50"
 menu:
