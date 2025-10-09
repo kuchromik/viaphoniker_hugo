@@ -14,6 +14,5 @@ menu:
 #### Wann? Was? Wo?
 
 <br />
-Sommerprobenpause bis voraussichtlich Oktober - Infos zum Probenstart im Wintersemester folgen
+Wir proben aktuell dienstags 18:30 Uhr im AUDIMAX
 <br />
-Habt einen schönen Sommer
