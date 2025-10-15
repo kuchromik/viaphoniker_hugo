@@ -12,7 +12,7 @@ cards:
     Frankfurt (Oder)
 - title: Vorstand
   text: 1. Vorsitzende Rosalie Baaske /
-        2. Vorsitzende Loisa Paulsen / 
+        2. Vorsitzende Mareike Riethmüller / 
         Kassenwart Simon Trepte /
         Kunstbeauftrage Lea Langosch
 - title: Buchung
