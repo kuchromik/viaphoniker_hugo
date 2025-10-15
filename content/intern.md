@@ -14,5 +14,5 @@ menu:
 #### Wann? Was? Wo?
 
 <br />
-Wir proben aktuell dienstags 18:30 Uhr im AUDIMAX
+Wir proben aktuell dienstags 18:30 Uhr im Hörsaal 6 des Gräfin-Dönhoff-Gebäudes.
 <br />
