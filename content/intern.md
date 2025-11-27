@@ -1,7 +1,7 @@
 ---
 title: ViaIntern
 date: 2025-01-29
-lastmod: 2025-07-11
+lastmod: 2025-11-27
 weight: "70"
 menu:
   main:
@@ -14,5 +14,5 @@ menu:
 #### Wann? Was? Wo?
 
 <br />
-Wir proben aktuell dienstags 18:30 Uhr im Hörsaal 6 des Gräfin-Dönhoff-Gebäudes.
+Wir proben aktuell dienstags 18:30 Uhr im AUDIMAX.
 <br />
