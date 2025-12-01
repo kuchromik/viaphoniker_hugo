@@ -2,7 +2,7 @@
 title: Dienstagsprobe
 date: 2022-04-12
 lastmod: 2022-04-12
-subtitle: Wir proben aktuell dienstags ab 18.30 Uhr im Hörsaal 6 des Gräfin-Dönhoff-Gebäudes.
+subtitle: Wir proben aktuell dienstags ab 18.30 Uhr im AUDIMAX.
 featured_text: Interessierte sind immer willkommen.
 featured_image: videoausschnitt_800.jpg
 featured_video: http://chromikoffsetdruck.de/proben.mp4
