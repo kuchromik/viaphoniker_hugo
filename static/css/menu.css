@@ -47,7 +47,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  transition: all 0.4s ease;
+  transition: all var(--transition-normal);
 }
 
 /* Hamburger Lines - Top & Bottom */
@@ -81,27 +81,14 @@
 
 /* Rotate On Hover When Checked */
 .menu-wrap .toggler:checked:hover + .hamburger > div {
-  transform: rotate(225deg);
-}
-
-/* Rotate On Hover */
-.menu-wrap .toggler:hover + .hamburger > div {
   transform: rotate(180deg);
 }
-/* onload-rotation */
-@keyframes rotateOnLoad {
-  0% {
-    transform: rotate(0deg);
-  }
-  100% {
-    transform: rotate(180deg);
-  }
-}
-.hamburger > div {
-  /* This section calls the rotateOnLoad animation we defined above */
-  animation: 1s ease-out 1s 3 rotateOnLoad;
-}
 
+/* Subtle hover effect */
+.menu-wrap .toggler:hover + .hamburger > div {
+  transform: scale(1.1);
+  transition: transform var(--transition-normal);
+}
 /* Show Menu */
 .menu-wrap .toggler:checked ~ .menu {
   visibility: visible;
@@ -114,7 +101,7 @@
 
 .menu-wrap .toggler:checked ~ .menu > div > div {
   opacity: 1;
-  transition:  opacity 0.4s ease 0.4s;
+  transition: opacity var(--transition-normal) 0.2s;
 }
 
 /* Hide Menu */
@@ -129,7 +116,7 @@
 
 .menu-wrap:active ~ .menu > div > div {
   opacity: 0;
-  transition:  opacity 0.4s ease 0.4s;
+  transition: opacity var(--transition-normal) 0.2s;
 }
 
 
@@ -179,12 +166,14 @@
 }
 
 .menu-wrap .menu > div > div > ul > li > a {
-  color: #ffdb4c;
+  color: var(--primary-color);
   text-decoration: none;
-  transition: color 0.4s ease;
+  transition: color var(--transition-normal);
 }
 
 .menu-wrap .menu > div > div > ul > li > a:hover {
-  color: darkblue;
-  transition: color 0.4s ease;
+  color: #fff;
+  transform: translateX(4px);
+  display: inline-block;
+  transition: color var(--transition-normal), transform var(--transition-normal);
 }
