@@ -1,10 +1,10 @@
 ---
 title: Aktuelles
-date: 2025-11-27
-lastmod: 2025-11-27
+date: 2026-02-01
+lastmod: 2026-02-01
 subtitle: 
-featured_image: perfect.webp
-featured_text: Kommt gern vorbei zur Dienstagsprobe um 18.30 Uhr im AUDIMAX
+featured_image: Pause.jpg
+featured_text: Semesterferien bis Anfang April
 featured_link: 
 featured_video: 
 weight: "10"
