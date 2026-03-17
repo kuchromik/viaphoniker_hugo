@@ -1,9 +1,9 @@
 ---
 title: Aktuelles
-date: 2026-02-04
-lastmod: 2026-02-04
+date: 2026-03-17
+lastmod: 2026-03-17
 subtitle: 
-featured_image: Pause.jpg
+featured_image: perfect2.png
 featured_text: Erste Probe im neuen Semester am 7. April 2026 im Audimax
 featured_link: 
 featured_video: 
