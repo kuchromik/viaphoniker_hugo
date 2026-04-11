@@ -1,10 +1,10 @@
 ---
 title: Aktuelles
-date: 2026-03-17
-lastmod: 2026-03-17
+date: 2026-04-11
+lastmod: 2026-04-11
 subtitle: 
-featured_image: perfect2.png
-featured_text: Erste Probe im neuen Semester am 7. April 2026 im Audimax
+featured_image: perfect.png
+featured_text: Achtung! Die Probe 14. April 2026 findet im GD HS 06 statt
 featured_link: 
 featured_video: 
 weight: "10"
