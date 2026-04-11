@@ -1,7 +1,7 @@
 ---
 title: ViaIntern
-date: 2026-02-01
-lastmod: 2026-02-01
+date: 2026-04-11
+lastmod: 2026-04-11
 weight: "70"
 menu:
   main:
@@ -14,5 +14,5 @@ menu:
 #### Wann? Was? Wo?
 
 <br />
-Wir machen eine Pause bis Anfang April.
+Wir bereiten aktuell unser Jubiläumskonzert vor.
 <br />
