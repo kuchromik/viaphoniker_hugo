@@ -1,10 +1,10 @@
 ---
 title: Aktuelles
-date: 2026-04-11T16:41:40+02:00
-lastmod: 2026-04-11
+date: 2026-04-19
+lastmod: 2026-04-19
 subtitle: null
 featured_image: perfect.png
-featured_text: Achtung! Die Probe 14. April 2026 findet im GD HS 06 statt - Du
+featured_text: Wir proben aktuell dienstags 18:30 Uhr im AUDIMAX - Du
   möchtest mitmachen und hast noch Fragen? Dann schreibe uns gern eine E-Mail an
   info(at)viaphoniker.de!
 featured_link: null
