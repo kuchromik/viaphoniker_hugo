@@ -16,3 +16,5 @@ menu:
 <br />
 Wir bereiten aktuell unser Jubiläumskonzert "30 Jahre Viaphoniker" am 2. Juli 2026 vor.
 <br />
+ACHTUNG: Nächste Probe am 2. Juni!
+<br />
