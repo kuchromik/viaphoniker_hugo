@@ -14,4 +14,4 @@ menu:
 #### Wann? Was? Wo?
 
 <br />
-Wir bereiten aktuell unser Jubiläumskonzert "30 Jahre Viaphoniker" am 2. Juli 2026 vor.
+Wir legen eine Pause ein und wünschen einen erholsamen Sommer

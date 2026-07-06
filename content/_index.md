@@ -1,12 +1,10 @@
 ---
 title: Aktuelles
-date: 2026-06-24
-lastmod: 2026-06-24
+date: 2026-07-06
+lastmod: 2026-07-06
 subtitle: null
-featured_image: jubilaeumskonzert_v3_800.png
-featured_text: Wir proben wieder am MONTAG, den 29. Juni 18:30 Uhr im AUDIMAX - Du
-  möchtest mitmachen und hast noch Fragen? Dann schreibe uns gern eine E-Mail an
-  info(at)viaphoniker.de!
+featured_image: jubilaeumskonzert_800.jpg
+featured_text: Was für ein tolles Konzert! Herzlichen Dank an unser wundervolles Publikum
 featured_link: null
 featured_video: null
 weight: "10"
