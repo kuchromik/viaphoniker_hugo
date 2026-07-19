@@ -18,9 +18,11 @@
     
     {{ if (and ( .Params.featured_video ) ( .Params.featured_image )) }}
     <div class="retrobox">
-        {{ $imagePath := printf "/img/%s" .Params.featured_image }}
+        {{ $imgSrc := .Params.featured_image }}
+        {{ $imagePath := $imgSrc }}
+        {{ if not (strings.HasPrefix $imgSrc "/") }}{{ $imagePath = printf "/img/%s" $imgSrc }}{{ end }}
         {{ $image := resources.Get $imagePath }}
-        <video controls poster="{{ $image.RelPermalink }}" src="{{ $featured_video }}"></video>
+        <video controls {{ if $image }}poster="{{ ($image.Resize "800x webp q80").RelPermalink }}"{{ end }} src="{{ $featured_video }}"></video>
     </div>
     {{ else if ( .Params.featured_video ) }}
     <div class="retrobox">
@@ -28,9 +30,14 @@
     </div>
     {{ else if (and ( .Params.featured_image ) ( not ( .Params.youtube ))) }}
     <div class="retrobox">
-        {{ $imagePath := printf "/img/%s" .Params.featured_image }}
+        {{ $imgSrc := .Params.featured_image }}
+        {{ $imagePath := $imgSrc }}
+        {{ if not (strings.HasPrefix $imgSrc "/") }}{{ $imagePath = printf "/img/%s" $imgSrc }}{{ end }}
         {{ $image := resources.Get $imagePath }}
-        <img src="{{ $image.RelPermalink }}"/>
+        {{ if $image }}
+        {{ $resized := $image.Fit "1200x900 webp q85" }}
+        <img src="{{ $resized.RelPermalink }}" width="{{ $resized.Width }}" height="{{ $resized.Height }}" loading="lazy" alt="{{ .Title }}"/>
+        {{ end }}
     </div>
     {{ end }}
     {{ if ( .Params.featured_text ) }}

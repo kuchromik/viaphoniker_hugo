@@ -24,9 +24,11 @@
                 <div class="row">
                     <div class="col thumb-right">
                         <a href="{{.Permalink}}">
-                            {{ $imagePath := printf "/img/%s" .Params.featured_image }}
+                            {{ $imgSrc := .Params.featured_image }}
+                            {{ $imagePath := $imgSrc }}
+                            {{ if not (strings.HasPrefix $imgSrc "/") }}{{ $imagePath = printf "/img/%s" $imgSrc }}{{ end }}
                             {{ $image := resources.Get $imagePath }}
-                            <img class="move" src="{{ ($image.Fill "112x112 q75 center").RelPermalink }}"/>
+                            {{ if $image }}<img class="move" src="{{ ($image.Fill "112x112 webp q75 center").RelPermalink }}" alt="{{ .Title }}"/>{{ end }}
                         </a>
                     </div>
                     <div class="col align-self-center">

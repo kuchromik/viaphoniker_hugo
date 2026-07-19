@@ -7,4 +7,8 @@ unsafe = true
 [params]
 custom_css = ["css/menu.css", "css/style.css"]
 
+[imaging]
+  quality = 85
+  resampleFilter = "lanczos"
+
 
