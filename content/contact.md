@@ -1,7 +1,7 @@
 ---
 title: Kontakt & Buchung
-date: 2024-06-28
-lastmod: 2024-06-28
+date: 2026-07-08
+lastmod: 2026-07-08
 weight: "60"
 cards:
 - title: Impressum (Angaben gem. § 5 TMG)
@@ -12,9 +12,9 @@ cards:
     Frankfurt (Oder)
 - title: Vorstand
   text: 1. Vorsitzende Rosalie Baaske /
-        2. Vorsitzende Mareike Riethmüller / 
-        Kassenwart Simon Trepte /
-        Kunstbeauftrage Lea Langosch
+        2. Vorsitzende Xinyi Han / 
+        Kassenwartin Klara Lieweke /
+        Kunstbeauftrager Cornelius Leu
 - title: Buchung
   text: Gern übernehmen wir für Sie, auch in kleineren Besetzungen, die musikalische
     Umrahmung von Veranstaltungen. Sprechen Sie uns einfach per E-Mail (info(at)viaphoniker.de) an und Sie
