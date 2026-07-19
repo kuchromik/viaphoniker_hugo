@@ -186,10 +186,12 @@ footer {
 
 .retrobox > img {
 	max-width: 90vw;
+	height: auto;
 }
 
 .retrobox > a > img {
 	max-width: 90vw;
+	height: auto;
 }
 
 
