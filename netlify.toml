@@ -1,6 +1,12 @@
 [build]
-  command = "hugo"
-  publish = "public"
+command = "hugo"
+publish = "public"
+
+[redirects]
+from = "/admin/*"
+to = "/admin/index.html"
+status = 200
+
 [context.production.environment]
-  HUGO_VERSION = "0.164.0"
-  HUGO_EXTENDED = "true"
+HUGO_VERSION = "0.164.0"
+HUGO_EXTENDED = "true"
