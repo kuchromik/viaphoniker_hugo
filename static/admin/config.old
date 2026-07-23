@@ -1,0 +1,56 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+media_folder: assets/img
+public_folder: /img
+collections:
+  - name: 'blog'
+    label: 'Blog'
+    folder: 'content'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+   
+
+      # Ergänze dies unterhalb deiner Collection-Definition (z.B. folder, label, name...)
+    fields:
+      - { label: "Titel", name: "title", widget: "string" }
+      - { label: "Veröffentlichungsdatum", name: "date", widget: "datetime" }
+      - { label: "Letzte Änderung", name: "lastmod", widget: "datetime" }
+      - { label: "Untertitel", name: "subtitle", widget: "string", required: false }
+      - { label: "Gewichtung (Sortierung)", name: "weight", widget: "string", required: false }
+      
+      # Beitragsbild und Teaser-Texte
+      - { label: "Hintergrundbild", name: "featured_image", widget: "image", required: false }
+      - { label: "Teaser-Text", name: "featured_text", widget: "text", required: false }
+      - { label: "Teaser-Link", name: "featured_link", widget: "string", required: false }
+      - { label: "Teaser-Video", name: "featured_video", widget: "string", required: false }
+
+      # Menü-Einstellungen für Hugo
+      - label: "Hauptmenü"
+        name: "menu"
+        widget: "object"
+        required: false
+        fields:
+          - label: "Hauptmenü-Eintrag"
+            name: "main"
+            widget: "object"
+            fields:
+              - { label: "Menü-Sortierung", name: "weight", widget: "number", value_type: "int" }
+
+      # Flexibles Karten-Layout (für Kontakt, Förderer etc.)
+      - label: "Inhalts-Karten"
+        name: "cards"
+        widget: "list"
+        required: false
+        summary: '{{fields.title}}'
+        fields:
+          - { label: "Karten-Titel", name: "title", widget: "string" }
+          - { label: "Karten-Text", name: "text", widget: "markdown" } # Markdown erlaubt Zeilenumbrüche im Impressum
+          - { label: "Karten-Bild", name: "image", widget: "image", required: false }
+          - { label: "Link-URL", name: "link", widget: "string", required: false }
+          - { label: "Link-Text", name: "linktext", widget: "string", required: false }
+
+      # Das eigentliche Textfeld für den Hauptinhalt der Markdown-Datei
+      - { label: "Seiteninhalt", name: "body", widget: "markdown", required: false }
