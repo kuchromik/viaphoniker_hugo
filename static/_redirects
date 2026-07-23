@@ -1,6 +1,0 @@
-# Verhindert, dass das Identity-System umgeleitet wird
-/.netlify/*  /.netlify/*  200!
-
-# Fängt den Rest für das CMS ab
-/admin/*     /admin/index.html  200
-
