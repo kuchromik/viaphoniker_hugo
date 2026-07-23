@@ -4,8 +4,8 @@ publish = "public"
 
 
 [[redirects]]
-from = “/admin/*”
-to = “/admin/index.html”
+from = "/admin/*"
+to = "/admin/index.html"
 status = 200
 
 [context.production.environment]
