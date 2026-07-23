@@ -16,4 +16,4 @@ Wir legen eine Pause ein und wünschen einen erholsamen Sommer
 
 <br />
 
-Weiter geht es im Oktober 2026 :-)
+Weiter geht Anfang Oktober 2026 :-)
