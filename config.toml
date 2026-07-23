@@ -1,4 +1,5 @@
 baseURL = "http://viaphoniker.eu"
+staticDir = ['static']
 languageCode = "de-de"
 enableGitInfo = true
 title = "ViaphonikerInnen"
